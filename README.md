@@ -5,7 +5,7 @@ This repository was built for the submission of the first project in INFO555 cla
 ### Problem
 This project investigates the text-only LLM(GPT-3.5-turbo) on VQA task with image description instead of the orginal images.
 ### Dataset
-M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray is used for the VQA task.
+M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray is used for the VQA task.\
 Dataset : https://huggingface.co/datasets/LightChen2333/M3CoT
 
 ### Generated Data
