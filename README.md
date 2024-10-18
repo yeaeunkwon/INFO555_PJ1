@@ -9,7 +9,7 @@ M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray 
 Dataset : https://huggingface.co/datasets/LightChen2333/M3CoT
 
 ### Generated Data
-M3CoT_img_caption_llava.jsonl
+* M3CoT_img_caption_llava.jsonl : The image description data obtainde from [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
 mathvista_img_caption_llava_v2.jsonl
 M3CoT_VQA_llava_QCM_A.jsonl 
 m3cot_gpt3.5_standard_0_QCM_A_v2_json.jsonl
