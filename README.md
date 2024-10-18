@@ -14,3 +14,8 @@ finetuning_m3cot.py
 mathvista_test.py
 
 run_llava.py
+M3CoT_VQA_llava_QCM_A.jsonl
+
+M3CoT_img_caption_llava.jsonl
+
+mathvista_img_caption_llava_v2.jsonl
