@@ -5,37 +5,27 @@ This repository was built for the submission of the first project in INFO555 cla
 ### Problem
 This project investigates the text-only LLM(GPT-3.5-turbo) on VQA task with image description instead of the orginal images.
 ### Dataset
-M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray is used for the VQA task.\
-Dataset : https://huggingface.co/datasets/LightChen2333/M3CoT
+M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray is used for the VQA task. [Dataset](https://huggingface.co/datasets/LightChen2333/M3CoT)
 
 ### Generated Data
-* M3CoT_img_caption_llava.jsonl : The image description data obtainde from [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
-mathvista_img_caption_llava_v2.jsonl
-M3CoT_VQA_llava_QCM_A.jsonl 
-m3cot_gpt3.5_standard_0_QCM_A_v2_json.jsonl
+* M3CoT_img_caption_llava.jsonl : The image description data after inputting the images from M3CoT to [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
+* mathvista_img_caption_llava_v2.jsonl :  The image description data after inputting the images from MathVista to [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
+* M3CoT_VQA_llava_QCM_A.jsonl : The results of [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf) on M3CoT Dataset.
+* m3cot_gpt3.5_standard_0_QCM_A_v2_json.jsonl : the result of zero-shot prompting to GPT-3.5-turbo
+* m3cot_gpt3.5_standard_1_QCM_A_v2_json.jsonl : the result of one-shot prompting to GPT-3.5-turbo
+* m3cot_gpt3.5_standard_2_QCM_A_v2_json.jsonl : the result of two-shot prompting to GPT-3.5-turbo
+* m3cot_gpt3.5_standard_3_QCM_A_v2_json.jsonl : the result of three-shot prompting to GPT-3.5-turbo
+* m3cot_gpt3.5_standard_0cot_QCM_AR_v2_json.jsonl : the result of zero-shot prompting with CoT to GPT-3.5-turbo
+* m3cot_gpt3.5_standard_1cot_QCM_AR_v2_json.jsonl : the result of one-shot prompting with CoT to GPT-3.5-turbo
+* m3cot_gpt3.5_standard_2cot_QCM_AR_v2_json.jsonl : the result of two-shot prompting with CoT to GPT-3.5-turbo
+* m3cot_gpt3.5_standard_3cot_QCM_AR_v2_json.jsonl : the result of three-shot prompting with CoT to GPT-3.5-turbo
 
-m3cot_gpt3.5_standard_0cot_QCM_AR_v2_json.jsonl
+### Code
+* Gpt_3.5.py : runnning GPT-3.5-turbo when giving the prompts
+* Prompting_evaluation.py : Calculating the accuracy, BERTScore, and ROUGE after prompting.
+* run_llava.py :  Obtaining the image descriptions from [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
+* finetuning_m3cot.py : Fine-tuning the FLAN-T5-SMALL on the M3CoT dataset
+* finetuning_evaluation.py : Calculating the accuracy of the result from the fine-tuning.
+* mathvista_test.py : Testing the fine-tuned flan-t5-small model on [MathVista Dataset](https://huggingface.co/datasets/AI4Math/MathVista)
 
-m3cot_gpt3.5_standard_1_QCM_A_v2_json.jsonl
-
-m3cot_gpt3.5_standard_1cot_QCM_AR_v2_json.jsonl
-
-m3cot_gpt3.5_standard_2_QCM_A_v2_json.jsonl
-
-m3cot_gpt3.5_standard_2cot_QCM_AR_v2_json.jsonl
-
-m3cot_gpt3.5_standard_3_QCM_A_v2_json.jsonl
-
-m3cot_gpt3.5_standard_3cot_QCM_AR_v2_json.jsonl
-Gpt_3.5.py
-
-Prompting_evaluation.py
-
-finetuning_evaluation.py
-
-finetuning_m3cot.py
-
-mathvista_test.py
-
-run_llava.py
 
