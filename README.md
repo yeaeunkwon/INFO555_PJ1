@@ -4,6 +4,7 @@ This repository was built for the submission of the first project in INFO555 cla
 ## LLMs is Blind: LLMs can answer the Visual-Question-Answering without seeing the image.
 ### Problem
 This project investigates the text-only LLM(GPT-3.5-turbo) on VQA task with image description instead of the orginal images.
+![system](https://github.com/user-attachments/assets/9bfea4bd-c6df-4186-bfb9-979f9309e728)
 ### Dataset
 M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray is used for the VQA task. [Dataset](https://huggingface.co/datasets/LightChen2333/M3CoT)
 
