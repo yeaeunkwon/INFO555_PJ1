@@ -7,7 +7,7 @@ This project investigates the text-only LLM(GPT-3.5-turbo) on VQA task with imag
 ### Dataset
 M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray is used for the VQA task. [Dataset](https://huggingface.co/datasets/LightChen2333/M3CoT)
 
-### Generated Data
+### Generated Data(Data Directory)
 * M3CoT_img_caption_llava.jsonl : The image description data after inputting the images from M3CoT to [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
 * mathvista_img_caption_llava_v2.jsonl :  The image description data after inputting the images from MathVista to [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
 * M3CoT_VQA_llava_QCM_A.jsonl : The results of [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf) on M3CoT Dataset.
@@ -20,7 +20,7 @@ M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray 
 * m3cot_gpt3.5_standard_2cot_QCM_AR_v2_json.jsonl : the result of two-shot prompting with CoT to GPT-3.5-turbo
 * m3cot_gpt3.5_standard_3cot_QCM_AR_v2_json.jsonl : the result of three-shot prompting with CoT to GPT-3.5-turbo
 
-### Code
+### Code(Code Directory)
 * Gpt_3.5.py : runnning GPT-3.5-turbo when giving the prompts
 * Prompting_evaluation.py : Calculating the accuracy, BERTScore, and ROUGE after prompting.
 * run_llava.py :  Obtaining the image descriptions from [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
