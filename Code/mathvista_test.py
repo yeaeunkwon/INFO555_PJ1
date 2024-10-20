@@ -94,7 +94,7 @@ def T5Test():
                 input_ids=input_ids,
                 attention_mask=attention_mask,
                 max_length=args.exp_len,
-                num_beams=1,
+                num_beams=2,
                 repetition_penalty=2.0,
                 length_penalty=1.0,
                 early_stopping=True
