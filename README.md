@@ -2,6 +2,8 @@
 This repository was built for the submission of the first project in INFO555 class (FALL2024).
 
 ## LLMs is Blind: LLMs can answer the Visual-Question-Answering without seeing the image.
+### Paper
+I couldn't upload the paper in this repository because of the error that says "Unable to render code block". So, I uploaded the paper to my Drive, and this is the link to the [file](https://drive.google.com/file/d/195ztptTjsfzqGNOEEseaiaTU_CCnlfIF/view?usp=sharing) : https://drive.google.com/file/d/195ztptTjsfzqGNOEEseaiaTU_CCnlfIF/view?usp=sharing
 ### Problem
 This project investigates the text-only LLM(GPT-3.5-turbo) on VQA task with image description instead of the orginal images.
 ![system](https://github.com/user-attachments/assets/9bfea4bd-c6df-4186-bfb9-979f9309e728)
