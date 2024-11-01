@@ -150,7 +150,7 @@ def T5Train():
     tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-small")
     model = AutoModelForSeq2SeqLM.from_pretrained("google/flan-t5-small", device_map="auto")
     
-    dataset_path="Data/CoT_prompting/M3CoT_img_caption_llava.jsonl"
+    dataset_path="Data/M3CoT_img_caption_llava.jsonl"
   
   
     data,label,domain=get_train_data(dataset_path,args.rationale)
