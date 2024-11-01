@@ -22,7 +22,7 @@ monsense.
 
 ![system](https://github.com/user-attachments/assets/9bfea4bd-c6df-4186-bfb9-979f9309e728)
 ### Paper
-You can find the paper in this [link](https://drive.google.com/file/d/195ztptTjsfzqGNOEEseaiaTU_CCnlfIF/view?usp=sharing) because of uploading problem of the paper in this repository.
+You can find the paper in this [link](https://drive.google.com/file/d/1XwE58iu6P_27uZnOPxgYiM2Kpd88b0rU/view?usp=sharing) because of uploading problem of the paper in this repository.
 
 ### Dataset
 M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray is used for the VQA task. [Dataset](https://huggingface.co/datasets/LightChen2333/M3CoT)
@@ -47,5 +47,7 @@ M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray 
 * finetuning_m3cot.py : Fine-tuning the FLAN-T5-SMALL on the M3CoT dataset
 * finetuning_evaluation.py : Calculating the accuracy of the result from the fine-tuning.
 * mathvista_test.py : Testing the fine-tuned flan-t5-small model on [MathVista Dataset](https://huggingface.co/datasets/AI4Math/MathVista)
+* inference_statistics.py: calculating p-value
+* llava_VQA_M3CoT.py: Running LLaVa on M3CoT 
 
 
