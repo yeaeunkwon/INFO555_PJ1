@@ -7,7 +7,7 @@ from bert_score import score
 parser=argparse.ArgumentParser()
 
 parser.add_argument('--rationale',default=False,type=bool)
-parser.add_argument('--path',default="Data/m3cot_gpt3.5_3_QCM_A.jsonl",type=str)
+parser.add_argument('--path',default="Data/GPT3.5/m3cot_gpt3.5_3_QCM_A.jsonl",type=str)
 args = parser.parse_args()
 
 def open_json(path):
