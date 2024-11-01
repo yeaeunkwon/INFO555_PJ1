@@ -19,6 +19,7 @@ only LLM. The experiments were conducted
 on the M3CoT dataset, addressing multiple do-
 mains such as mathematics, science, and com-
 monsense.
+
 ![system](https://github.com/user-attachments/assets/9bfea4bd-c6df-4186-bfb9-979f9309e728)
 ### Paper
 You can find the paper in this [link](https://drive.google.com/file/d/195ztptTjsfzqGNOEEseaiaTU_CCnlfIF/view?usp=sharing) because of uploading problem of the paper in this repository.
