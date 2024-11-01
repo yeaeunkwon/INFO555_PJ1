@@ -31,14 +31,14 @@ M3CoT, which is multi-modal and multi-domain dataset, from HuggingFace libraray 
 * M3CoT_img_caption_llava.jsonl : The image description data after inputting the images from M3CoT to [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
 * mathvista_img_caption_llava_v2.jsonl :  The image description data after inputting the images from MathVista to [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
 * M3CoT_VQA_llava_QCM_A.jsonl : The results of [llava-hf/llava-v1.6-mistral-7b-hf](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf) on M3CoT Dataset.
-* m3cot_gpt3.5_standard_0_QCM_A_v2_json.jsonl : the result of zero-shot prompting to GPT-3.5-turbo
-* m3cot_gpt3.5_standard_1_QCM_A_v2_json.jsonl : the result of one-shot prompting to GPT-3.5-turbo
-* m3cot_gpt3.5_standard_2_QCM_A_v2_json.jsonl : the result of two-shot prompting to GPT-3.5-turbo
-* m3cot_gpt3.5_standard_3_QCM_A_v2_json.jsonl : the result of three-shot prompting to GPT-3.5-turbo
-* m3cot_gpt3.5_standard_0cot_QCM_AR_v2_json.jsonl : the result of zero-shot prompting with CoT to GPT-3.5-turbo
-* m3cot_gpt3.5_standard_1cot_QCM_AR_v2_json.jsonl : the result of one-shot prompting with CoT to GPT-3.5-turbo
-* m3cot_gpt3.5_standard_2cot_QCM_AR_v2_json.jsonl : the result of two-shot prompting with CoT to GPT-3.5-turbo
-* m3cot_gpt3.5_standard_3cot_QCM_AR_v2_json.jsonl : the result of three-shot prompting with CoT to GPT-3.5-turbo
+* m3cot_gpt3.5_0_QCM_A.jsonl : the result of zero-shot prompting to GPT-3.5-turbo
+* m3cot_gpt3.5_1_QCM_A.jsonl : the result of one-shot prompting to GPT-3.5-turbo
+* m3cot_gpt3.5_2_QCM_A.jsonl : the result of two-shot prompting to GPT-3.5-turbo
+* m3cot_gpt3.5_3_QCM_A.jsonl : the result of three-shot prompting to GPT-3.5-turbo
+* m3cot_gpt3.5_0cot_QCM_AR.jsonl : the result of zero-shot prompting with CoT to GPT-3.5-turbo
+* m3cot_gpt3.5_1cot_QCM_AR.jsonl : the result of one-shot prompting with CoT to GPT-3.5-turbo
+* m3cot_gpt3.5_2cot_QCM_AR.jsonl : the result of two-shot prompting with CoT to GPT-3.5-turbo
+* m3cot_gpt3.5_3cot_QCM_AR.jsonl : the result of three-shot prompting with CoT to GPT-3.5-turbo
 
 ### Code(Code Directory)
 * Gpt_3.5.py : runnning GPT-3.5-turbo when giving the prompts
