@@ -11,7 +11,7 @@ parser.add_argument('--shot',default=0, type=int)
 parser.add_argument('--seed',default=42, type=int)
 parser.add_argument('--cot',default=False,type=bool)
 parser.add_argument('--format',default="QCM_A",type=str)
-parser.add_argument('--output_dir',default="Data/GPT3.5",type=str)
+parser.add_argument('--output_dir',default="Data/GPT3.5/",type=str)
 parser.add_argument('--data_path',default="Data/M3CoT_img_caption_llava.jsonl",type=str)
 args = parser.parse_args()
 
