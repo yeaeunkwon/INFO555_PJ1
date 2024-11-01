@@ -39,7 +39,7 @@ def test_accuracy(prediction,gold,choice):
 
 
 if __name__=="__main__": 
-    path="Data/T5output/Mathvista_flan-t5_QCM_A_test_predictions_v2.jsonl"
+    path="Data/Mathvista_flan-t5_QCM_A_test_predictions_v2.jsonl"
     data=[]
     with open(path,'r') as f:
         for line in f:
