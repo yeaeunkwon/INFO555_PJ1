@@ -64,7 +64,7 @@ def T5Test():
     model.load_state_dict(torch.load(CHECKPOINT_PATH, map_location=device)['model_state_dict'])
     
     math_data = load_dataset("AI4Math/MathVista")
-    test_img_caption="Data/mathvista_img_caption_llava_v2.jsonl"
+    test_img_caption="Data/mathvista_img_caption_llava.jsonl"
     caption_text=[]
     with open(test_img_caption,'r') as f:
         for line in f:
