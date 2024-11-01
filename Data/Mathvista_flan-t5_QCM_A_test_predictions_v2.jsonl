@@ -1,0 +1,1000 @@
+{"qid": "1", "predictoin": "counter: (C)", "gold": "1.2", "choices": null}
+{"qid": "2", "predictoin": "outlet: (C)", "gold": "1000", "choices": null}
+{"qid": "3", "predictoin": "(C)", "gold": "145\u00b0", "choices": ["135\u00b0", "140\u00b0", "145\u00b0", "150\u00b0"]}
+{"qid": "4", "predictoin": "C: (C)", "gold": "4", "choices": null}
+{"qid": "5", "predictoin": "(B)", "gold": "97", "choices": ["97", "102", "107", "122"]}
+{"qid": "6", "predictoin": "(B)", "gold": "6cm", "choices": ["6cm", "7cm", "4cm", "5cm"]}
+{"qid": "7", "predictoin": "(B)", "gold": "quarter", "choices": ["half", "quarter", "o'clock", "quarter to", "quarter past"]}
+{"qid": "8", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "9", "predictoin": "(C)", "gold": "8", "choices": ["15", "13", "11", "8"]}
+{"qid": "10", "predictoin": "(C)", "gold": "E", "choices": ["A", "B", "C", "D", "E"]}
+{"qid": "11", "predictoin": "egg", "gold": "5", "choices": null}
+{"qid": "12", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "13", "predictoin": "", "gold": "0", "choices": null}
+{"qid": "14", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "15", "predictoin": "(B)", "gold": "Common water flea", "choices": ["Tilapia", "Common water flea", "Great diving beetle", "Tadpole"]}
+{"qid": "16", "predictoin": "3.", "gold": "2", "choices": null}
+{"qid": "17", "predictoin": "(D)", "gold": "5", "choices": ["5", "6", "8", "10"]}
+{"qid": "18", "predictoin": "snowboard: (B)", "gold": "Does Linda's snowboard slide down a hill in less time when it has a layer of wax or when it does not have a layer of wax?", "choices": ["Does Linda's snowboard slide down a hill in less time when it has a thin layer of wax or a thick layer of wax?", "Does Linda's snowboard slide down a hill in less time when it has a layer of wax or when it does not have a layer of wax?"]}
+{"qid": "19", "predictoin": "(B)", "gold": "400", "choices": null}
+{"qid": "20", "predictoin": "B", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "21", "predictoin": "(A)", "gold": "2", "choices": null}
+{"qid": "22", "predictoin": "", "gold": "0", "choices": null}
+{"qid": "23", "predictoin": "(A)", "gold": "equal to", "choices": ["larger than", "equal to", "smaller than"]}
+{"qid": "24", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "25", "predictoin": "AB", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "26", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "27", "predictoin": "event:", "gold": "11", "choices": null}
+{"qid": "28", "predictoin": "(C)", "gold": "8.5", "choices": ["7.5", "8", "8.5", "17"]}
+{"qid": "29", "predictoin": ": (D)", "gold": "4", "choices": null}
+{"qid": "30", "predictoin": "(D)", "gold": "70\u00b0", "choices": ["60\u00b0", "70\u00b0", "80\u00b0", "85\u00b0"]}
+{"qid": "31", "predictoin": "(D)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "32", "predictoin": "(B)", "gold": "70\u00b0", "choices": ["40\u00b0", "50\u00b0", "60\u00b0", "70\u00b0"]}
+{"qid": "33", "predictoin": "(C)", "gold": "4cm", "choices": ["2\u03c0cm", "3\u03c0cm", "4\u03c0cm", "5\u03c0cm"]}
+{"qid": "34", "predictoin": "ABC", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "35", "predictoin": "(C)", "gold": "35\u00b0", "choices": ["20\u00b0", "35\u00b0", "40\u00b0", "55\u00b0"]}
+{"qid": "36", "predictoin": ": (D)", "gold": "9", "choices": null}
+{"qid": "37", "predictoin": "(B)", "gold": "3", "choices": null}
+{"qid": "38", "predictoin": "", "gold": "0", "choices": null}
+{"qid": "39", "predictoin": "(A)", "gold": "odd", "choices": ["odd", "even"]}
+{"qid": "40", "predictoin": "C: (D)", "gold": "7", "choices": null}
+{"qid": "41", "predictoin": "is DB:C", "gold": "7", "choices": null}
+{"qid": "42", "predictoin": "(B)", "gold": "8", "choices": null}
+{"qid": "43", "predictoin": "AAB", "gold": "May", "choices": ["August", "April", "May"]}
+{"qid": "44", "predictoin": "(B)", "gold": "18", "choices": null}
+{"qid": "45", "predictoin": "(A)", "gold": "-3", "choices": null}
+{"qid": "46", "predictoin": "(B)", "gold": "Adults spider population would decrease", "choices": ["Adult spider population would remain the same", "Adult spider population would double.", "Adults spider population would decrease", "Adult spider population would increase."]}
+{"qid": "47", "predictoin": "(C)", "gold": "6", "choices": null}
+{"qid": "48", "predictoin": "(C)", "gold": "38", "choices": ["28", "38", "52", "62"]}
+{"qid": "49", "predictoin": "(B)", "gold": "0", "choices": null}
+{"qid": "50", "predictoin": "B", "gold": "The population of predatory insects would decrease.", "choices": ["The population of steelheads would decrease.", "The population of stickleback fry would increase.", "The population of predatory insects would increase.", "The population of predatory insects would decrease."]}
+{"qid": "51", "predictoin": "ABC", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "52", "predictoin": "(C)", "gold": "6", "choices": null}
+{"qid": "53", "predictoin": "(D)", "gold": "1", "choices": null}
+{"qid": "54", "predictoin": "(A)", "gold": "10", "choices": ["8", "10", "15", "18", "20"]}
+{"qid": "55", "predictoin": "D", "gold": "30\u00b0", "choices": ["60\u00b0", "45\u00b0", "30\u00b0", "25\u00b0"]}
+{"qid": "56", "predictoin": "(D)", "gold": "6", "choices": null}
+{"qid": "57", "predictoin": "(C)", "gold": "2", "choices": null}
+{"qid": "58", "predictoin": "(A)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "59", "predictoin": "(B)", "gold": "64\u00b0", "choices": ["26\u00b0", "74\u00b0", "64\u00b0", "54\u00b0"]}
+{"qid": "60", "predictoin": "(D)", "gold": "22", "choices": null}
+{"qid": "61", "predictoin": "ABC", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "62", "predictoin": "(D)", "gold": "4", "choices": ["4", "5", "5.5", "6"]}
+{"qid": "63", "predictoin": "(C)", "gold": "7", "choices": null}
+{"qid": "64", "predictoin": "AB", "gold": "sample A", "choices": ["neither; the samples have the same temperature", "sample A", "sample B"]}
+{"qid": "65", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "66", "predictoin": "(A)", "gold": "A", "choices": ["A", "B", "C", "D", "E", "F"]}
+{"qid": "67", "predictoin": "(D)", "gold": "16", "choices": null}
+{"qid": "68", "predictoin": "(C)", "gold": "4cm", "choices": ["2cm", "4cm", "6cm", "8cm"]}
+{"qid": "69", "predictoin": "(D)", "gold": "7", "choices": null}
+{"qid": "70", "predictoin": "D:", "gold": "8", "choices": null}
+{"qid": "71", "predictoin": "(D)", "gold": "18", "choices": null}
+{"qid": "72", "predictoin": "(B)", "gold": "1", "choices": null}
+{"qid": "73", "predictoin": "(A)", "gold": "D", "choices": ["A", "B", "C", "D", "E", "F"]}
+{"qid": "74", "predictoin": "Hungary", "gold": "47.6", "choices": null}
+{"qid": "75", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "76", "predictoin": "(D)", "gold": "decrease", "choices": ["decrease", "nothing", "increase", "none of the above"]}
+{"qid": "77", "predictoin": "", "gold": "2019", "choices": null}
+{"qid": "78", "predictoin": "(B)", "gold": "8", "choices": null}
+{"qid": "79", "predictoin": "(D)", "gold": "60\u00b0", "choices": ["30\u00b0", "45\u00b0", "60\u00b0", "70\u00b0"]}
+{"qid": "80", "predictoin": "", "gold": "Crabs and limpets will decrease", "choices": ["Crabs and limpets will decrease", "Dolphins will increase", "Sea gulls will become extinct", "Star fish will increase"]}
+{"qid": "81", "predictoin": "has (C)", "gold": "-1", "choices": null}
+{"qid": "82", "predictoin": "(D)", "gold": "6", "choices": ["3", "3 \\sqrt 2", "6", "6 \\sqrt 2"]}
+{"qid": "83", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "84", "predictoin": "(D)", "gold": "130.9", "choices": null}
+{"qid": "85", "predictoin": "Romania", "gold": "2", "choices": null}
+{"qid": "86", "predictoin": "(A)", "gold": "RFT U13B", "choices": ["ICL", "SFT", "SFT 1/8", "RFT k=100", "RFT k=25", "RET k=6", "RFT U13B"]}
+{"qid": "87", "predictoin": "shortage", "gold": "surplus", "choices": ["shortage", "surplus"]}
+{"qid": "88", "predictoin": "(A)", "gold": "30", "choices": null}
+{"qid": "89", "predictoin": ":", "gold": "25", "choices": null}
+{"qid": "90", "predictoin": "C: (C)", "gold": "5", "choices": null}
+{"qid": "91", "predictoin": "BA", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "92", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "93", "predictoin": "(C)", "gold": "197.3", "choices": null}
+{"qid": "94", "predictoin": "(C)", "gold": "27\u00b0", "choices": ["36\u00b0", "44\u00b0", "27\u00b0", "54\u00b0"]}
+{"qid": "95", "predictoin": "(B)", "gold": "80\u00b0", "choices": ["50\u00b0", "60\u00b0", "70\u00b0", "80\u00b0"]}
+{"qid": "96", "predictoin": "(D)", "gold": "3.9", "choices": null}
+{"qid": "97", "predictoin": "", "gold": "0", "choices": null}
+{"qid": "98", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "99", "predictoin": "ABC", "gold": "white one", "choices": ["white five", "white three", "white four", "white one", "white two"]}
+{"qid": "100", "predictoin": "B: (C)", "gold": "12", "choices": null}
+{"qid": "101", "predictoin": "(A)", "gold": "Linear", "choices": ["Lanceolate", "Heart-shaped", "Linear", "Spatulate"]}
+{"qid": "102", "predictoin": "(C)", "gold": "6", "choices": null}
+{"qid": "103", "predictoin": "cylindrical (C)", "gold": "2", "choices": null}
+{"qid": "104", "predictoin": "D: (D)", "gold": "0.8", "choices": null}
+{"qid": "105", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "106", "predictoin": "(B)", "gold": "0", "choices": null}
+{"qid": "107", "predictoin": "(C)", "gold": "quarter", "choices": ["half", "quarter", "o'clock", "quarter to", "quarter past"]}
+{"qid": "108", "predictoin": "(B)", "gold": "51.04", "choices": null}
+{"qid": "109", "predictoin": "(A)", "gold": "5", "choices": null}
+{"qid": "110", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "111", "predictoin": "CB: (C)", "gold": "5", "choices": null}
+{"qid": "112", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "113", "predictoin": "white (A)", "gold": "20", "choices": null}
+{"qid": "114", "predictoin": "(B)", "gold": "9.45", "choices": ["6.00", "9.45", "18.9", "37.8"]}
+{"qid": "115", "predictoin": "(B)", "gold": "3", "choices": null}
+{"qid": "116", "predictoin": "AC", "gold": "Acuminate", "choices": ["Acuminate", "Truncate", "Mucronate", "Acute"]}
+{"qid": "117", "predictoin": "(B)", "gold": "[0, 2]", "choices": ["[0, 2]", "[3, 2]", "[2, 4]", "[-3, 4]"]}
+{"qid": "118", "predictoin": "(B)", "gold": "1", "choices": null}
+{"qid": "119", "predictoin": "(A)", "gold": "20\u00b0", "choices": ["45\u00b0", "40\u00b0", "25\u00b0", "20\u00b0"]}
+{"qid": "120", "predictoin": "(A)", "gold": "3", "choices": null}
+{"qid": "121", "predictoin": "(A)", "gold": "5", "choices": null}
+{"qid": "122", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "123", "predictoin": "(C)", "gold": "D", "choices": ["A", "B", "C", "D", "E"]}
+{"qid": "124", "predictoin": "ABC", "gold": "Whorled", "choices": ["Whorled", "Simple", "Opposite", "Alternate"]}
+{"qid": "125", "predictoin": "(B)", "gold": "plants increase", "choices": ["plants decrease", "plants increase", "nothing happens", "none of the above"]}
+{"qid": "126", "predictoin": "seated: (C)", "gold": "9", "choices": null}
+{"qid": "127", "predictoin": "C:", "gold": "5", "choices": null}
+{"qid": "128", "predictoin": "metallic", "gold": "6", "choices": null}
+{"qid": "129", "predictoin": "(B)", "gold": "3", "choices": null}
+{"qid": "130", "predictoin": "", "gold": "0", "choices": null}
+{"qid": "131", "predictoin": "", "gold": "3", "choices": null}
+{"qid": "132", "predictoin": "(B)", "gold": "2", "choices": ["1", "1.5", "2", "\\frac{7}{3}"]}
+{"qid": "133", "predictoin": "\"B", "gold": "4", "choices": null}
+{"qid": "134", "predictoin": "(A)", "gold": "which design would have the greatest distance between the concert area and the road", "choices": ["if at least 20% of the park would be shaded by trees in each design", "which design would have the least traffic noise in the concert area", "which design would have the greatest distance between the concert area and the road"]}
+{"qid": "135", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "136", "predictoin": "3.", "gold": "64", "choices": null}
+{"qid": "137", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "138", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "139", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "140", "predictoin": "(C)", "gold": "soup", "choices": ["soup", "water", "sandwich", "buns"]}
+{"qid": "141", "predictoin": "C)", "gold": "4.40", "choices": ["3.85\u7c73", "4.00\u7c73", "4.40\u7c73", "4.50\u7c73"]}
+{"qid": "142", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "143", "predictoin": "C", "gold": "3", "choices": ["1", "2", "3", "6"]}
+{"qid": "144", "predictoin": "(A)", "gold": "13.8", "choices": null}
+{"qid": "145", "predictoin": "(A)", "gold": "10", "choices": null}
+{"qid": "146", "predictoin": "(A)", "gold": "4", "choices": null}
+{"qid": "147", "predictoin": "blue", "gold": "sample B", "choices": ["neither; the samples have the same temperature", "sample B", "sample A"]}
+{"qid": "148", "predictoin": "(B)", "gold": "Decurrent", "choices": ["Hastate", "Cordate", "Sagittate", "Decurrent"]}
+{"qid": "149", "predictoin": "(B)", "gold": "55\u00b0", "choices": ["55\u00b0", "60\u00b0", "65\u00b0", "70\u00b0"]}
+{"qid": "150", "predictoin": "(C)", "gold": "40\u00b0", "choices": ["40\u00b0", "50\u00b0", "80\u00b0", "100\u00b0"]}
+{"qid": "151", "predictoin": "(B)", "gold": "(u1, u2) = (0, 0)", "choices": ["(u1, u2) = (0, 0)", "(u1, u2) = (1, 0)", "(u1, u2) = (0, 1)", "(u1, u2) = (1, 1)"]}
+{"qid": "152", "predictoin": "(B)", "gold": "44\u00b0", "choices": ["36\u00b0", "45\u00b0", "44\u00b0", "64\u00b0"]}
+{"qid": "153", "predictoin": "(B)", "gold": "mice", "choices": ["sun", "grasshoppers", "grass", "mice"]}
+{"qid": "154", "predictoin": "(C)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "155", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "156", "predictoin": "(A)", "gold": "4", "choices": null}
+{"qid": "157", "predictoin": "(A)", "gold": "9335", "choices": null}
+{"qid": "158", "predictoin": "color", "gold": "7", "choices": null}
+{"qid": "159", "predictoin": "(C)", "gold": "100", "choices": null}
+{"qid": "160", "predictoin": "(D)", "gold": "12", "choices": ["10", "11", "12", "13"]}
+{"qid": "161", "predictoin": "(C)", "gold": "71", "choices": null}
+{"qid": "162", "predictoin": "(B)", "gold": "4", "choices": null}
+{"qid": "163", "predictoin": "(B)", "gold": "7519", "choices": null}
+{"qid": "164", "predictoin": "(B)", "gold": "35\u00b0", "choices": ["55\u00b0", "35\u00b0", "25\u00b0", "30\u00b0"]}
+{"qid": "165", "predictoin": "C", "gold": "6", "choices": null}
+{"qid": "166", "predictoin": "(A)", "gold": "B", "choices": ["A", "B", "C", "D", "E", "F"]}
+{"qid": "167", "predictoin": ": (C)", "gold": "2", "choices": null}
+{"qid": "168", "predictoin": "(B)", "gold": "(b)", "choices": ["(c)", "(a)", "(e)", "(d)", "(b)"]}
+{"qid": "169", "predictoin": "(C)", "gold": "5", "choices": null}
+{"qid": "170", "predictoin": "(B)", "gold": "smaller than", "choices": ["larger than", "equal to", "smaller than"]}
+{"qid": "171", "predictoin": "", "gold": "20", "choices": null}
+{"qid": "172", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "173", "predictoin": "(A)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "174", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "175", "predictoin": "color", "gold": "24", "choices": null}
+{"qid": "176", "predictoin": "(D)", "gold": "2", "choices": ["0.5", "1", "1.5", "2"]}
+{"qid": "177", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "178", "predictoin": "(D)", "gold": "55\u00b0", "choices": ["35\u00b0", "45\u00b0", "55\u00b0", "65\u00b0"]}
+{"qid": "179", "predictoin": "AABC", "gold": "20cm", "choices": ["14cm", "28cm", "10cm", "20cm"]}
+{"qid": "180", "predictoin": "B", "gold": "6", "choices": null}
+{"qid": "181", "predictoin": "(C)", "gold": "C", "choices": ["A", "B", "C"]}
+{"qid": "182", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "183", "predictoin": "each:", "gold": "4", "choices": null}
+{"qid": "184", "predictoin": "(C)", "gold": "0", "choices": null}
+{"qid": "185", "predictoin": "(A)", "gold": "False", "choices": ["True", "False"]}
+{"qid": "186", "predictoin": "(C)", "gold": "frac203", "choices": ["\\frac{20}{3}", "\\frac{10}{3}", "7", "\\frac{14}{3}"]}
+{"qid": "187", "predictoin": "(A)", "gold": "9015", "choices": null}
+{"qid": "188", "predictoin": "(A)", "gold": "3", "choices": null}
+{"qid": "189", "predictoin": "(B)", "gold": "1", "choices": null}
+{"qid": "190", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "191", "predictoin": "", "gold": "4", "choices": null}
+{"qid": "192", "predictoin": "(B)", "gold": "40\u00b0", "choices": ["10\u00b0", "20\u00b0", "40\u00b0", "80\u00b0"]}
+{"qid": "193", "predictoin": "C (B)", "gold": "3", "choices": null}
+{"qid": "194", "predictoin": "commute", "gold": "50", "choices": null}
+{"qid": "195", "predictoin": "(B)", "gold": "130\u00b0", "choices": ["120\u00b0", "125\u00b0", "130\u00b0", "135\u00b0"]}
+{"qid": "196", "predictoin": "(D)", "gold": "0.5cm2", "choices": ["2cm2", "1cm2", "0.5cm2", "0.25cm2"]}
+{"qid": "197", "predictoin": "", "gold": "2", "choices": null}
+{"qid": "198", "predictoin": "(B)", "gold": "1", "choices": ["1", "2", "3", "4"]}
+{"qid": "199", "predictoin": "(B)", "gold": "0.21", "choices": null}
+{"qid": "200", "predictoin": "(A)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "201", "predictoin": "(B)", "gold": "19", "choices": null}
+{"qid": "202", "predictoin": "noB", "gold": "3", "choices": null}
+{"qid": "203", "predictoin": "AAC", "gold": "frac43", "choices": ["\\frac{4}{3}", "0.75", "0.6", "0.8"]}
+{"qid": "204", "predictoin": "(C)", "gold": "12", "choices": null}
+{"qid": "205", "predictoin": "C:", "gold": "24", "choices": null}
+{"qid": "206", "predictoin": "(A)", "gold": "3", "choices": ["2", "3", "4", "5"]}
+{"qid": "207", "predictoin": "sum: (C)", "gold": "5", "choices": null}
+{"qid": "208", "predictoin": "the (B)", "gold": "5", "choices": null}
+{"qid": "209", "predictoin": "C: (C)", "gold": "28.3", "choices": null}
+{"qid": "210", "predictoin": "", "gold": "0", "choices": null}
+{"qid": "211", "predictoin": "three", "gold": "6", "choices": null}
+{"qid": "212", "predictoin": "", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "213", "predictoin": "", "gold": "2001", "choices": null}
+{"qid": "214", "predictoin": "(C)", "gold": "2", "choices": null}
+{"qid": "215", "predictoin": "(D)", "gold": "8", "choices": null}
+{"qid": "216", "predictoin": "(B)", "gold": "90", "choices": null}
+{"qid": "217", "predictoin": "pen: (B)", "gold": "2", "choices": null}
+{"qid": "218", "predictoin": "(A)", "gold": "2", "choices": null}
+{"qid": "219", "predictoin": "(C)", "gold": "1", "choices": null}
+{"qid": "220", "predictoin": "(C)", "gold": "125\u00b0", "choices": ["125\u00b0", "120\u00b0", "105\u00b0", "90\u00b0"]}
+{"qid": "221", "predictoin": "C", "gold": "65\u00b0", "choices": ["50\u00b0", "55\u00b0", "60\u00b0", "65\u00b0"]}
+{"qid": "222", "predictoin": "B", "gold": "3", "choices": null}
+{"qid": "223", "predictoin": "BC:DA", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "224", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "225", "predictoin": "(C)", "gold": "[0, 2, 0, 2, 1, 7, 1, 2, 0, 3, 0, 6]", "choices": null}
+{"qid": "226", "predictoin": "(A)", "gold": "quarter", "choices": ["half", "quarter", "o'clock", "quarter to", "quarter past"]}
+{"qid": "227", "predictoin": "(A)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "228", "predictoin": "Ice", "gold": "50\u00b0", "choices": ["50\u00b0", "55\u00b0", "60\u00b0", "65\u00b0"]}
+{"qid": "229", "predictoin": "(B)", "gold": "0.30%", "choices": ["0.33%", "0.31%", "0.29%", "0.32%", "0.30%"]}
+{"qid": "230", "predictoin": "", "gold": "0", "choices": null}
+{"qid": "231", "predictoin": "(A)", "gold": "Soft", "choices": ["Identity", "Uniform", "Uniform / Soft", "Soft / Uniform", "Soft", "Dense"]}
+{"qid": "232", "predictoin": "SoftA: (A)", "gold": "Solution B", "choices": ["neither; their concentrations are the same", "Solution B", "Solution A"]}
+{"qid": "233", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "234", "predictoin": "(C)", "gold": "6", "choices": ["3", "5", "6", "7", "It cannot be determined from the information given"]}
+{"qid": "235", "predictoin": "(A)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "236", "predictoin": "(C)", "gold": "12", "choices": ["7", "9", "12", "15"]}
+{"qid": "237", "predictoin": "(C)", "gold": "it would decrease", "choices": ["increase", "fluctuate", "it would decrease", "stay the same "]}
+{"qid": "238", "predictoin": "(C)", "gold": "frac  20   3 ", "choices": ["6", "\\frac { 20 } { 3 }", "7", "22 / 3"]}
+{"qid": "239", "predictoin": "(A)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "240", "predictoin": "sixth", "gold": "1", "choices": null}
+{"qid": "241", "predictoin": "two", "gold": "11", "choices": null}
+{"qid": "242", "predictoin": "(B)", "gold": "135", "choices": ["45", "90", "135", "180"]}
+{"qid": "243", "predictoin": "C", "gold": "5", "choices": null}
+{"qid": "244", "predictoin": "(C)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "245", "predictoin": "$D: (D)", "gold": "24", "choices": null}
+{"qid": "246", "predictoin": "(B)", "gold": "13", "choices": null}
+{"qid": "247", "predictoin": "(C)", "gold": "6.36", "choices": null}
+{"qid": "248", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "249", "predictoin": "(B)", "gold": "6", "choices": null}
+{"qid": "250", "predictoin": "(C)", "gold": "13.0", "choices": ["4.6", "6.5", "13.0", "26.0"]}
+{"qid": "251", "predictoin": "C", "gold": "4", "choices": null}
+{"qid": "252", "predictoin": "(C)", "gold": "0.73", "choices": null}
+{"qid": "253", "predictoin": "(C)", "gold": "2", "choices": null}
+{"qid": "254", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "255", "predictoin": "(A)", "gold": "40\u00b0", "choices": ["70\u00b0", "55\u00b0", "40\u00b0", "30\u00b0"]}
+{"qid": "256", "predictoin": "B", "gold": "6", "choices": ["3", "4", "5", "6"]}
+{"qid": "257", "predictoin": "(A)", "gold": "6", "choices": ["6", "36", "64", "8"]}
+{"qid": "258", "predictoin": ": (B)", "gold": "2", "choices": null}
+{"qid": "259", "predictoin": "(C)", "gold": "2", "choices": null}
+{"qid": "260", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "261", "predictoin": "(B)", "gold": "6", "choices": null}
+{"qid": "262", "predictoin": "German", "gold": "39", "choices": null}
+{"qid": "263", "predictoin": "(E)", "gold": "38", "choices": null}
+{"qid": "264", "predictoin": "", "gold": "3", "choices": null}
+{"qid": "265", "predictoin": "(A)", "gold": "11", "choices": null}
+{"qid": "266", "predictoin": "AAB", "gold": "oblique", "choices": ["oblique", "obtuse", "cordate", "truncate"]}
+{"qid": "267", "predictoin": "(C)", "gold": "Serrulate", "choices": ["Undulate", "Sinuate", "Serrulate", "Entire"]}
+{"qid": "268", "predictoin": "3.", "gold": "10.4", "choices": null}
+{"qid": "269", "predictoin": "(A)", "gold": "1603m", "choices": ["160m", "160\u221a{3}m", "(160-160\u221a{3})m", "360m"]}
+{"qid": "270", "predictoin": "(D)", "gold": "100\u00b0", "choices": ["50\u00b0", "65\u00b0", "100\u00b0", "130\u00b0"]}
+{"qid": "271", "predictoin": "(C)", "gold": "5", "choices": ["3", "4.5", "5", "6"]}
+{"qid": "272", "predictoin": "(B)", "gold": "4:30", "choices": ["9:30", "1:30", "4:30", "5:30", "11:30"]}
+{"qid": "273", "predictoin": "11", "gold": "26", "choices": ["6.5", "13", "26", "52"]}
+{"qid": "274", "predictoin": "(A)", "gold": "7", "choices": ["14", "12", "9", "7"]}
+{"qid": "275", "predictoin": "(D)", "gold": "frac352", "choices": ["\\frac{21}{2}", "\\frac{\u221a{15}}{2}", "\\frac{9}{2}", "\\frac{3\u221a{5}}{2}"]}
+{"qid": "276", "predictoin": "B", "gold": "3mm", "choices": ["1mm", "2mm", "3mm", "4mm"]}
+{"qid": "277", "predictoin": "(A)", "gold": "D", "choices": ["A", "B", "C", "D", "E"]}
+{"qid": "278", "predictoin": "BC", "gold": "Mic", "choices": ["Lego", "Mats", "Mic", "Ship"]}
+{"qid": "279", "predictoin": "DB", "gold": "grass", "choices": ["grass", "mouse", "grasshopper", "owl"]}
+{"qid": "280", "predictoin": "E", "gold": "60", "choices": ["80", "60", "40", "30", "20"]}
+{"qid": "281", "predictoin": "(A)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "282", "predictoin": "(C)", "gold": "100", "choices": null}
+{"qid": "283", "predictoin": "(B)", "gold": "5", "choices": ["2", "4", "5", "10"]}
+{"qid": "284", "predictoin": "", "gold": "1", "choices": null}
+{"qid": "285", "predictoin": "(C)", "gold": "25\u00b0", "choices": ["50\u00b0", "40\u00b0", "30\u00b0", "25\u00b0"]}
+{"qid": "286", "predictoin": "(A)", "gold": "2cm", "choices": ["6cm", "5cm", "4cm", "2cm"]}
+{"qid": "287", "predictoin": "(D)", "gold": "R2", "choices": ["R1", "R2", "R5", "R3", "R4"]}
+{"qid": "288", "predictoin": "(B)", "gold": "0.0 - 0.2", "choices": ["0.0 - 0.2", "0.2 - 0.4", "0.4 - 0.6", "0.6 - 0.8", "0.8 - 1.0"]}
+{"qid": "289", "predictoin": "(A)", "gold": "2", "choices": null}
+{"qid": "290", "predictoin": "(D)", "gold": "75\u00b0", "choices": ["75\u00b0", "85\u00b0", "95\u00b0", "105\u00b0"]}
+{"qid": "291", "predictoin": "", "gold": "May '21", "choices": ["Jul '21", "Jun '21", "Mar '21", "May '21", "Apr '21"]}
+{"qid": "292", "predictoin": "AB", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "293", "predictoin": "(B)", "gold": "grasses increases", "choices": ["grouse decrease", "chipmunk increases", "grasses increases", "elk increase"]}
+{"qid": "294", "predictoin": "(A)", "gold": "0.17", "choices": null}
+{"qid": "295", "predictoin": "(C)", "gold": "3", "choices": null}
+{"qid": "296", "predictoin": "(B)", "gold": "equal to", "choices": ["larger than", "equal to", "smaller than"]}
+{"qid": "297", "predictoin": "BA", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "298", "predictoin": "CB", "gold": "mountain lion", "choices": ["mountain lion", "producer", "decomposer", "energy"]}
+{"qid": "299", "predictoin": "\"D)", "gold": "22", "choices": null}
+{"qid": "300", "predictoin": "there: (D)", "gold": "270", "choices": ["59", "135", "270", "301"]}
+{"qid": "301", "predictoin": "(B)", "gold": "Dynalang", "choices": ["Dynalang", "EMMA", "R2D2", "IMPALA"]}
+{"qid": "302", "predictoin": "Can (C)", "gold": "a logarithmic function", "choices": ["a polynomial", "a trigonometric function", "an exponential function", "a logarithmic function"]}
+{"qid": "303", "predictoin": "(C)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "304", "predictoin": "right", "gold": "100", "choices": null}
+{"qid": "305", "predictoin": "", "gold": "9", "choices": null}
+{"qid": "306", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "307", "predictoin": "acceleration (D)", "gold": "2.58", "choices": null}
+{"qid": "308", "predictoin": "Can (C)", "gold": "a trigonometric function", "choices": ["a polynomial", "a trigonometric function", "an exponential function", "a logarithmic function"]}
+{"qid": "309", "predictoin": ": (C)", "gold": "5", "choices": null}
+{"qid": "310", "predictoin": "(C)", "gold": "frac  40   3 ", "choices": ["10", "\\frac { 32 } { 3 }", "\\frac { 40 } { 3 }", "\\frac { 50 } { 3 }"]}
+{"qid": "311", "predictoin": "C:", "gold": "2", "choices": null}
+{"qid": "312", "predictoin": "AAC", "gold": "apples", "choices": ["potatoes", "peas", "apples", "canola"]}
+{"qid": "313", "predictoin": "\"B)", "gold": "10", "choices": null}
+{"qid": "314", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "315", "predictoin": "Red", "gold": "125*a2 + 250", "choices": ["5*a^2 + 10", "25*a^2 + 50", "25*a^2 + 100", "125*a^2 + 250", "cannot be determined"]}
+{"qid": "316", "predictoin": "(B)", "gold": "50\u00b0", "choices": ["50\u00b0", "80\u00b0", "100\u00b0", "200\u00b0"]}
+{"qid": "317", "predictoin": "C", "gold": "6", "choices": null}
+{"qid": "318", "predictoin": "(B)", "gold": "2256", "choices": ["191.5", "1128", "2256", "4512"]}
+{"qid": "319", "predictoin": "C", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "320", "predictoin": "(D)", "gold": "6", "choices": ["6.5", "6", "5.5", "\\frac{\u221a{119}}{2}"]}
+{"qid": "321", "predictoin": "shortage", "gold": "surplus", "choices": ["shortage", "surplus"]}
+{"qid": "322", "predictoin": "AAB", "gold": "40m", "choices": ["10m", "20m", "35m", "40m"]}
+{"qid": "323", "predictoin": "B", "gold": "green", "choices": ["green", "red"]}
+{"qid": "324", "predictoin": "lowest: (B)", "gold": "53", "choices": null}
+{"qid": "325", "predictoin": "(A)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "326", "predictoin": "blue dots", "gold": "3", "choices": null}
+{"qid": "327", "predictoin": "", "gold": "0", "choices": null}
+{"qid": "328", "predictoin": " (C)", "gold": "18", "choices": null}
+{"qid": "329", "predictoin": "(C)", "gold": "larger than", "choices": ["larger than", "equal to", "smaller than"]}
+{"qid": "330", "predictoin": "(B)", "gold": "7", "choices": null}
+{"qid": "331", "predictoin": ":", "gold": "64", "choices": null}
+{"qid": "332", "predictoin": "(D)", "gold": "7873", "choices": null}
+{"qid": "333", "predictoin": "(D)", "gold": "frac  5   12 ", "choices": ["\\frac { 5 } { 12 }", "\\frac { 12 } { 13 }", "\\frac { 17 } { 12 }", "\\frac { 12 } { 5 }"]}
+{"qid": "334", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "335", "predictoin": "1.", "gold": "2", "choices": null}
+{"qid": "336", "predictoin": "silver: (B)", "gold": "8", "choices": null}
+{"qid": "337", "predictoin": "(B)", "gold": "quarter", "choices": ["half", "quarter", "o'clock", "quarter to", "quarter past"]}
+{"qid": "338", "predictoin": "(D)", "gold": "8", "choices": ["6", "8", "2*x", "4*x", "4*x^2"]}
+{"qid": "339", "predictoin": "(B)", "gold": "55\u00b0", "choices": ["65\u00b0", "75\u00b0", "50\u00b0", "55\u00b0"]}
+{"qid": "340", "predictoin": "(A)", "gold": "Science", "choices": ["Legal ", "Code ", "Conversational ", "Math ", "Science", "Books ", "News ", "Encyclopedic"]}
+{"qid": "341", "predictoin": "(C)", "gold": "o'clock", "choices": ["half", "quarter", "o'clock", "quarter to", "quarter past"]}
+{"qid": "342", "predictoin": "(C)", "gold": "d", "choices": ["a", "b", "c", "d", "e"]}
+{"qid": "343", "predictoin": "(C)", "gold": "7", "choices": null}
+{"qid": "344", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "345", "predictoin": "", "gold": "25", "choices": null}
+{"qid": "346", "predictoin": "flying", "gold": "1", "choices": null}
+{"qid": "347", "predictoin": "(A)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "348", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "349", "predictoin": "photograph", "gold": "Rec", "choices": ["Rec", "OCR", "Know", "Gen", "Spat", "Math"]}
+{"qid": "350", "predictoin": "(A)", "gold": "4", "choices": null}
+{"qid": "351", "predictoin": "BD", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "352", "predictoin": "bicycle", "gold": "1", "choices": null}
+{"qid": "353", "predictoin": "(A)", "gold": "130.4", "choices": null}
+{"qid": "354", "predictoin": "(B)", "gold": "0", "choices": null}
+{"qid": "355", "predictoin": "\"A)", "gold": "130\u00b0", "choices": ["150\u00b0", "130\u00b0", "110\u00b0", "100\u00b0"]}
+{"qid": "356", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "357", "predictoin": "Salmon: (A)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "358", "predictoin": "(A)", "gold": "A", "choices": ["A", "B", "C", "D", "E"]}
+{"qid": "359", "predictoin": "(B)", "gold": "-7", "choices": null}
+{"qid": "360", "predictoin": ": (B)", "gold": "50", "choices": ["40", "50", "65", "110"]}
+{"qid": "361", "predictoin": "(D)", "gold": "Lower half", "choices": ["Upper half", "Lower half", "Medial half", "Lateral half"]}
+{"qid": "362", "predictoin": "(C)", "gold": "8", "choices": null}
+{"qid": "363", "predictoin": "rubber", "gold": "2", "choices": null}
+{"qid": "364", "predictoin": "(C)", "gold": "40\u00b0", "choices": ["30\u00b0", "35\u00b0", "40\u00b0", "45\u00b0"]}
+{"qid": "365", "predictoin": "Four", "gold": "7", "choices": null}
+{"qid": "366", "predictoin": ": (D)", "gold": "2", "choices": null}
+{"qid": "367", "predictoin": "10: (B)", "gold": "14", "choices": null}
+{"qid": "368", "predictoin": "BD", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "369", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "370", "predictoin": "(C)", "gold": "decrease", "choices": ["decrease", "can't tell", "stay same", "increase"]}
+{"qid": "371", "predictoin": "1.AB", "gold": "4", "choices": ["3", "4", "5", "6"]}
+{"qid": "372", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "373", "predictoin": "shadow: (D)", "gold": "120\u00b0", "choices": ["110\u00b0", "120\u00b0", "140\u00b0", "150\u00b0"]}
+{"qid": "374", "predictoin": "(C)", "gold": "13", "choices": null}
+{"qid": "375", "predictoin": "(C)", "gold": "7", "choices": ["1.5", "7", "11", "12.5"]}
+{"qid": "376", "predictoin": "(B)", "gold": "7", "choices": null}
+{"qid": "377", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "378", "predictoin": "(A)", "gold": "8", "choices": ["5", "6", "7", "8"]}
+{"qid": "379", "predictoin": "(D)", "gold": "horses", "choices": ["horses", "cats", "nothing", "bears"]}
+{"qid": "380", "predictoin": "", "gold": "6", "choices": null}
+{"qid": "381", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "382", "predictoin": "ABC", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "383", "predictoin": "the", "gold": "131253.5", "choices": null}
+{"qid": "384", "predictoin": ":", "gold": "0", "choices": null}
+{"qid": "385", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "386", "predictoin": "(A)", "gold": "10 sqrt  3 ", "choices": ["5", "10", "10 \\sqrt { 3 }", "20"]}
+{"qid": "387", "predictoin": "(B)", "gold": "100", "choices": null}
+{"qid": "388", "predictoin": "(B)", "gold": "0.42", "choices": ["0.38", "0.42", "0.92", "2.40"]}
+{"qid": "389", "predictoin": "surplus: (D)", "gold": "shortage", "choices": ["shortage", "surplus"]}
+{"qid": "390", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "391", "predictoin": "(B)", "gold": "20\u00b0", "choices": ["40\u00b0", "60\u00b0", "50\u00b0", "20\u00b0"]}
+{"qid": "392", "predictoin": "D", "gold": "1", "choices": null}
+{"qid": "393", "predictoin": "B", "gold": "54", "choices": null}
+{"qid": "394", "predictoin": "(C)", "gold": "LangRoom", "choices": ["HomeGrid", "Msgr S1", "Msgr S2", "Msgr S3", "VLN", "LangRoom"]}
+{"qid": "395", "predictoin": "9.", "gold": "10", "choices": null}
+{"qid": "396", "predictoin": "(C)", "gold": "decrease", "choices": ["remains the same", "decrease", "increase", "NA"]}
+{"qid": "397", "predictoin": "(C)", "gold": "2", "choices": ["1", "2", "2.2", "2.5"]}
+{"qid": "398", "predictoin": "(C)", "gold": "3", "choices": null}
+{"qid": "399", "predictoin": "(D)", "gold": "6", "choices": null}
+{"qid": "400", "predictoin": "EB", "gold": "4.0", "choices": ["1.0", "1.5", "2.0", "2.5", "3.0", "3.5", "4.0"]}
+{"qid": "401", "predictoin": "(C)", "gold": "1", "choices": null}
+{"qid": "402", "predictoin": "rabbit", "gold": "Frogs", "choices": ["Rabbit", "Deer", "Frogs", "Wolf"]}
+{"qid": "403", "predictoin": "(A)", "gold": "32", "choices": ["7", "24", "25", "32"]}
+{"qid": "404", "predictoin": "CBD", "gold": "children's class", "choices": ["figure skating practice", "private class", "adult class", "children's class"]}
+{"qid": "405", "predictoin": "AB", "gold": "19", "choices": null}
+{"qid": "406", "predictoin": "snow", "gold": "15", "choices": null}
+{"qid": "407", "predictoin": "(A)", "gold": "40\u00b0", "choices": ["30\u00b0", "40\u00b0", "50\u00b0", "60\u00b0"]}
+{"qid": "408", "predictoin": "(B)", "gold": "6 sqrt  5 ", "choices": ["6", "6 \\sqrt { 2 }", "6 \\sqrt { 3 }", "6 \\sqrt { 5 }"]}
+{"qid": "409", "predictoin": "(C)", "gold": "5", "choices": null}
+{"qid": "410", "predictoin": "(C)", "gold": "20.25", "choices": ["20.25", "21", "27", "36"]}
+{"qid": "411", "predictoin": "", "gold": "100", "choices": null}
+{"qid": "412", "predictoin": "", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "413", "predictoin": "(D)", "gold": "40\u00b0", "choices": ["25\u00b0", "35\u00b0", "40\u00b0", "45\u00b0"]}
+{"qid": "414", "predictoin": "(B)", "gold": "9", "choices": ["6", "8", "9", "10"]}
+{"qid": "415", "predictoin": "", "gold": "15017", "choices": null}
+{"qid": "416", "predictoin": "(C)", "gold": "800", "choices": null}
+{"qid": "417", "predictoin": ":", "gold": "8", "choices": null}
+{"qid": "418", "predictoin": "C", "gold": "decrease", "choices": ["remain the same", "increase", "decrease", "NA"]}
+{"qid": "419", "predictoin": "EB", "gold": "quarter", "choices": ["half", "quarter", "o'clock", "quarter to", "quarter past"]}
+{"qid": "420", "predictoin": "(C)", "gold": "0.0", "choices": null}
+{"qid": "421", "predictoin": "(B)", "gold": "-47", "choices": null}
+{"qid": "422", "predictoin": "(B)", "gold": "10", "choices": null}
+{"qid": "423", "predictoin": "AB", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "424", "predictoin": "B", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "425", "predictoin": "(B)", "gold": "0.6", "choices": ["0.6", "0.8", "0.75", "\\frac{4}{3}"]}
+{"qid": "426", "predictoin": "(B)", "gold": "2", "choices": ["1", "2", "3", "4"]}
+{"qid": "427", "predictoin": "C", "gold": "7", "choices": null}
+{"qid": "428", "predictoin": "(B)", "gold": "28", "choices": null}
+{"qid": "429", "predictoin": "(B)", "gold": "10", "choices": null}
+{"qid": "430", "predictoin": "90%", "gold": "smaller than", "choices": ["larger than", "equal to", "smaller than"]}
+{"qid": "431", "predictoin": "(A)", "gold": "decrease", "choices": ["remains the same", "increase", "decrease", "NA"]}
+{"qid": "432", "predictoin": "(D)", "gold": "4", "choices": null}
+{"qid": "433", "predictoin": "", "gold": "5", "choices": null}
+{"qid": "434", "predictoin": "(A)", "gold": "60-k", "choices": ["60-k", "k", "60+k", "120-k", "120-2*k"]}
+{"qid": "435", "predictoin": "", "gold": "1", "choices": null}
+{"qid": "436", "predictoin": "(D)", "gold": "3", "choices": null}
+{"qid": "437", "predictoin": "(C)", "gold": "839", "choices": null}
+{"qid": "438", "predictoin": "(A)", "gold": "13", "choices": null}
+{"qid": "439", "predictoin": "BC", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "440", "predictoin": "BC", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "441", "predictoin": "(C)", "gold": "9", "choices": null}
+{"qid": "442", "predictoin": "two", "gold": "3", "choices": null}
+{"qid": "443", "predictoin": "(B)", "gold": "frac45", "choices": ["\\frac{3}{5}", "\\frac{4}{5}", "\\frac{3}{4}", "\\frac{4}{3}"]}
+{"qid": "444", "predictoin": "(B)", "gold": "7", "choices": null}
+{"qid": "445", "predictoin": "(A)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "446", "predictoin": "(A)", "gold": "8", "choices": ["4", "5", "8", "16"]}
+{"qid": "447", "predictoin": "ABC", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "448", "predictoin": "", "gold": "2016", "choices": null}
+{"qid": "449", "predictoin": "B", "gold": "40", "choices": null}
+{"qid": "450", "predictoin": "(D)", "gold": "grasshoppers", "choices": ["garter snakes", "hognose snakes", "hawks", "grasshoppers"]}
+{"qid": "451", "predictoin": "ABC", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "452", "predictoin": "", "gold": "80", "choices": ["40", "60", "80", "100"]}
+{"qid": "453", "predictoin": "(B)", "gold": "4", "choices": null}
+{"qid": "454", "predictoin": "10", "gold": "1", "choices": null}
+{"qid": "455", "predictoin": "18", "gold": "16*pi/5", "choices": ["16*\\pi/5", "32*\\pi/5", "36*\\pi", "288*\\pi/5", "576*\\pi"]}
+{"qid": "456", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "457", "predictoin": "(C)", "gold": "4525", "choices": null}
+{"qid": "458", "predictoin": "", "gold": "3", "choices": null}
+{"qid": "459", "predictoin": "C:D", "gold": "1", "choices": null}
+{"qid": "460", "predictoin": "(B)", "gold": "Crickets", "choices": ["Frogs", "Crickets", "Snakes", "Hawks"]}
+{"qid": "461", "predictoin": "", "gold": "7", "choices": null}
+{"qid": "462", "predictoin": "(C)", "gold": "1", "choices": null}
+{"qid": "463", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "464", "predictoin": "(C)", "gold": "4", "choices": ["1", "2", "3", "4", "5", "6"]}
+{"qid": "465", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "466", "predictoin": "(A)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "467", "predictoin": "(A)", "gold": "110", "choices": ["90", "100", "110", "120"]}
+{"qid": "468", "predictoin": "", "gold": "7", "choices": null}
+{"qid": "469", "predictoin": "BC", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "470", "predictoin": "CB", "gold": "PDE-Refiner", "choices": ["Baseline", "Diffusion", "PDE-Refiner", "Pushforward"]}
+{"qid": "471", "predictoin": "B", "gold": "8", "choices": null}
+{"qid": "472", "predictoin": "(A)", "gold": "3", "choices": null}
+{"qid": "473", "predictoin": ": (B)", "gold": "12", "choices": null}
+{"qid": "474", "predictoin": "\"DB", "gold": "25", "choices": null}
+{"qid": "475", "predictoin": "(B)", "gold": "8", "choices": null}
+{"qid": "476", "predictoin": "(A)", "gold": "crickets", "choices": ["crickets", "deer", "snakes", "hawks"]}
+{"qid": "477", "predictoin": "(D)", "gold": "half", "choices": ["half", "quarter", "o'clock", "quarter to", "quarter past"]}
+{"qid": "478", "predictoin": "(C)", "gold": "10", "choices": ["10", "8", "6", "5"]}
+{"qid": "479", "predictoin": "", "gold": "2.54", "choices": null}
+{"qid": "480", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "481", "predictoin": "1.ACBDCBCCBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC", "gold": "6", "choices": null}
+{"qid": "482", "predictoin": "cable", "gold": "60*degree", "choices": ["15*\\degree", "30*\\degree", "45*\\degree", "60*\\degree", "90*\\degree"]}
+{"qid": "483", "predictoin": "C", "gold": "50\u00b0", "choices": ["40\u00b0", "50\u00b0", "60\u00b0", "20\u00b0"]}
+{"qid": "484", "predictoin": "(C)", "gold": "3", "choices": null}
+{"qid": "485", "predictoin": "(A)", "gold": "10\u00b0", "choices": ["20\u00b0", "15\u00b0", "10\u00b0", "5\u00b0"]}
+{"qid": "486", "predictoin": "(C)", "gold": "24", "choices": ["12", "14", "35", "24"]}
+{"qid": "487", "predictoin": "B", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "488", "predictoin": ": (C)", "gold": "2", "choices": null}
+{"qid": "489", "predictoin": "(B)", "gold": "25", "choices": null}
+{"qid": "490", "predictoin": "(B)", "gold": "50\u00b0", "choices": ["30\u00b0", "40\u00b0", "50\u00b0", "60\u00b0"]}
+{"qid": "491", "predictoin": "D", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "492", "predictoin": "(D)", "gold": "23", "choices": ["1", "\u221a{3}", "2", "2\u221a{3}"]}
+{"qid": "493", "predictoin": "AB", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "494", "predictoin": "(B)", "gold": "3", "choices": null}
+{"qid": "495", "predictoin": "BD", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "496", "predictoin": "(C)", "gold": "20", "choices": null}
+{"qid": "497", "predictoin": "", "gold": "9", "choices": null}
+{"qid": "498", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "499", "predictoin": "(B)", "gold": "52", "choices": ["33", "38", "52", "87"]}
+{"qid": "500", "predictoin": "C", "gold": "3", "choices": null}
+{"qid": "501", "predictoin": ": (B)", "gold": "7", "choices": null}
+{"qid": "502", "predictoin": "BA", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "503", "predictoin": "(D)", "gold": "4", "choices": null}
+{"qid": "504", "predictoin": "(B)", "gold": "8", "choices": ["10", "8", "6", "4"]}
+{"qid": "505", "predictoin": "(D)", "gold": "3", "choices": ["3", "4", "5", "6"]}
+{"qid": "506", "predictoin": "", "gold": "[2014, 2016]", "choices": null}
+{"qid": "507", "predictoin": "(B)", "gold": "garter snakes would decrease", "choices": ["mice would increase", "sparrows increased", "garter snakes would decrease", "grass decreased"]}
+{"qid": "508", "predictoin": "(A)", "gold": "5", "choices": null}
+{"qid": "509", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "510", "predictoin": "(C)", "gold": "frac45", "choices": ["\\frac{2}{3}", "\\frac{3}{5}", "\\frac{3}{4}", "\\frac{4}{5}"]}
+{"qid": "511", "predictoin": "B", "gold": "9", "choices": null}
+{"qid": "512", "predictoin": "number: (B)", "gold": "0.24", "choices": null}
+{"qid": "513", "predictoin": "(B)", "gold": "42.2%-62.6%", "choices": ["43.2%-63.6%", "45.2%-65.6%", "42.2%-62.6%", "41.2%-61.6%", "44.2%-64.6%"]}
+{"qid": "514", "predictoin": "(A)", "gold": "3 main veins", "choices": ["3 main veins", "pinnate", "reticulate", "palmate"]}
+{"qid": "515", "predictoin": "C", "gold": "kril", "choices": ["herring", "kril", "anchovy", "phytoplankton"]}
+{"qid": "516", "predictoin": "1.ABC", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "517", "predictoin": "(B)", "gold": "-1", "choices": null}
+{"qid": "518", "predictoin": "(B)", "gold": "4", "choices": null}
+{"qid": "519", "predictoin": "(D)", "gold": "12", "choices": null}
+{"qid": "520", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "521", "predictoin": "(D)", "gold": "40\u00b0", "choices": ["20\u00b0", "30\u00b0", "40\u00b0", "60\u00b0"]}
+{"qid": "522", "predictoin": "(C)", "gold": "7", "choices": null}
+{"qid": "523", "predictoin": "white (A)", "gold": "53m", "choices": ["10m", "5m", "5\u221a{3}m", "10\u221a{3}m"]}
+{"qid": "524", "predictoin": ": (C)", "gold": "0", "choices": null}
+{"qid": "525", "predictoin": "(B)", "gold": "0", "choices": null}
+{"qid": "526", "predictoin": "(A)", "gold": "slide", "choices": ["slide", "flip", "turn"]}
+{"qid": "527", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "528", "predictoin": "(D)", "gold": "55\u00b0", "choices": ["25\u00b0", "35\u00b0", "45\u00b0", "55\u00b0"]}
+{"qid": "529", "predictoin": "C", "gold": "1020", "choices": null}
+{"qid": "530", "predictoin": "(D)", "gold": "9", "choices": null}
+{"qid": "531", "predictoin": "(B)", "gold": "quarter", "choices": ["half", "quarter", "o'clock", "quarter to", "quarter past"]}
+{"qid": "532", "predictoin": "ABA", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "533", "predictoin": "(A)", "gold": "8", "choices": null}
+{"qid": "534", "predictoin": "two: (C)", "gold": "1", "choices": null}
+{"qid": "535", "predictoin": "(B)", "gold": "-8", "choices": null}
+{"qid": "536", "predictoin": "(B)", "gold": "70\u00b0", "choices": ["17.5\u00b0", "35\u00b0", "60\u00b0", "70\u00b0"]}
+{"qid": "537", "predictoin": "B", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "538", "predictoin": "(B)", "gold": "9", "choices": ["9\u03c0", "6\u03c0", "3\u03c0", "\u03c0"]}
+{"qid": "539", "predictoin": "(A)", "gold": "12", "choices": ["8", "10", "12", "14"]}
+{"qid": "540", "predictoin": "(C)", "gold": "3/11", "choices": ["3/11", "8/11", "6/11", "3/5"]}
+{"qid": "541", "predictoin": "ABC", "gold": "D", "choices": ["A", "B", "C", "D", "E"]}
+{"qid": "542", "predictoin": "four", "gold": "2", "choices": null}
+{"qid": "543", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "544", "predictoin": "(C)", "gold": "44", "choices": null}
+{"qid": "545", "predictoin": "AB", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "546", "predictoin": "(D)", "gold": "1", "choices": null}
+{"qid": "547", "predictoin": "C", "gold": "Insects", "choices": ["Insects", "Hawk and snake", "Snake and raccoon", "Mouse and cricket"]}
+{"qid": "548", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "549", "predictoin": "A (C)", "gold": "16", "choices": ["8", "12", "16", "\u4e0d\u80fd\u786e\u5b9a"]}
+{"qid": "550", "predictoin": "C", "gold": "8", "choices": null}
+{"qid": "551", "predictoin": "minimalist", "gold": "14", "choices": null}
+{"qid": "552", "predictoin": "(B)", "gold": "4", "choices": null}
+{"qid": "553", "predictoin": "(A)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "554", "predictoin": "(A)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "555", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "556", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "557", "predictoin": "(B)", "gold": "6", "choices": ["4", "6", "8", "9"]}
+{"qid": "558", "predictoin": "(C)", "gold": "9", "choices": null}
+{"qid": "559", "predictoin": "Quant: (C)", "gold": "55", "choices": null}
+{"qid": "560", "predictoin": "(A)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "561", "predictoin": "(A)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "562", "predictoin": "(A)", "gold": "1", "choices": null}
+{"qid": "563", "predictoin": "CBD", "gold": "bottom", "choices": ["top", "bottom", "left", "right"]}
+{"qid": "564", "predictoin": "(C)", "gold": "4", "choices": null}
+{"qid": "565", "predictoin": "(A)", "gold": "Soft MoE", "choices": ["Soft MoE", "Experts Choice", "Tokens Choice", "Dense"]}
+{"qid": "566", "predictoin": "(A)", "gold": "26\u00b0", "choices": ["26\u00b0", "28\u00b0", "30\u00b0", "34\u00b0"]}
+{"qid": "567", "predictoin": "C", "gold": "3", "choices": null}
+{"qid": "568", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "569", "predictoin": "ferry:", "gold": "1", "choices": null}
+{"qid": "570", "predictoin": "\"B)", "gold": "5", "choices": null}
+{"qid": "571", "predictoin": "ABC", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "572", "predictoin": "(B)", "gold": "5", "choices": null}
+{"qid": "573", "predictoin": "(A)", "gold": "53", "choices": null}
+{"qid": "574", "predictoin": "(A)", "gold": "2", "choices": ["1", "2", "3", "4", "5"]}
+{"qid": "575", "predictoin": "(C)", "gold": "3", "choices": ["3", "4", "5", "6"]}
+{"qid": "576", "predictoin": "(A)", "gold": "frontal lobe", "choices": ["motor cortex", "occipital lobe", "temporal lobe", "frontal lobe"]}
+{"qid": "577", "predictoin": "(C)", "gold": "-104", "choices": null}
+{"qid": "578", "predictoin": "(A)", "gold": "9567", "choices": null}
+{"qid": "579", "predictoin": "(A)", "gold": "7", "choices": null}
+{"qid": "580", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "581", "predictoin": "(B)", "gold": "4", "choices": null}
+{"qid": "582", "predictoin": "(C)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "583", "predictoin": "(D)", "gold": "5.8", "choices": ["5.8", "6.5", "14.2", "44.3"]}
+{"qid": "584", "predictoin": "A", "gold": "Connor", "choices": ["Connor", "Aubrey"]}
+{"qid": "585", "predictoin": "Harold: (B)", "gold": "4", "choices": ["4", "3", "2", "2\u221a{3}"]}
+{"qid": "586", "predictoin": "(D)", "gold": "13\u00b0", "choices": ["32\u00b0", "45\u00b0", "13\u00b0", "30\u00b0"]}
+{"qid": "587", "predictoin": "C", "gold": "202", "choices": ["20\u6d77\u91cc", "20\u221a{2}\u6d77\u91cc", "15\u6d77\u91cc", "20\u6d77\u91cc"]}
+{"qid": "588", "predictoin": "", "gold": "1982", "choices": null}
+{"qid": "589", "predictoin": "Home (A)", "gold": "5", "choices": null}
+{"qid": "590", "predictoin": "A", "gold": "13", "choices": null}
+{"qid": "591", "predictoin": "", "gold": "4", "choices": null}
+{"qid": "592", "predictoin": "\"B:", "gold": "4", "choices": null}
+{"qid": "593", "predictoin": "C:", "gold": "273", "choices": null}
+{"qid": "594", "predictoin": "", "gold": "2005", "choices": null}
+{"qid": "595", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "596", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "597", "predictoin": "", "gold": "10", "choices": null}
+{"qid": "598", "predictoin": "Buck: (C)", "gold": "iiki", "choices": ["iiki", "swallow-tanager", "cliff swallow", "hawfinch"]}
+{"qid": "599", "predictoin": "(A)", "gold": "2", "choices": ["2", "4", "5", "7", "8"]}
+{"qid": "600", "predictoin": "(A)", "gold": "A", "choices": ["A", "B", "C", "D", "E"]}
+{"qid": "601", "predictoin": "(C)", "gold": "0.33", "choices": null}
+{"qid": "602", "predictoin": "B: (C)", "gold": "18", "choices": null}
+{"qid": "603", "predictoin": "(D)", "gold": "300", "choices": null}
+{"qid": "604", "predictoin": "A", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "605", "predictoin": "(A)", "gold": "6", "choices": null}
+{"qid": "606", "predictoin": "(C)", "gold": "10", "choices": null}
+{"qid": "607", "predictoin": "3C", "gold": "3", "choices": null}
+{"qid": "608", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "609", "predictoin": "(B)", "gold": "1", "choices": null}
+{"qid": "610", "predictoin": "(C)", "gold": "2", "choices": ["1", "2", "4", "8", "16"]}
+{"qid": "611", "predictoin": "(A)", "gold": "0", "choices": null}
+{"qid": "612", "predictoin": "(B)", "gold": "4", "choices": null}
+{"qid": "613", "predictoin": "", "gold": "10", "choices": null}
+{"qid": "614", "predictoin": "shingles", "gold": "7", "choices": null}
+{"qid": "615", "predictoin": "(D)", "gold": "38", "choices": ["29", "34", "37", "38"]}
+{"qid": "616", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "617", "predictoin": "(C)", "gold": "9", "choices": null}
+{"qid": "618", "predictoin": "(A)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "619", "predictoin": "4. (B)", "gold": "16", "choices": null}
+{"qid": "620", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "621", "predictoin": "(C)", "gold": "62.5", "choices": ["40", "42.5", "50", "52.5", "62.5"]}
+{"qid": "622", "predictoin": "(C)", "gold": "36", "choices": ["30", "36", "72", "24"]}
+{"qid": "623", "predictoin": "(C)", "gold": "o'clock", "choices": ["half", "quarter", "o'clock", "quarter to", "quarter past"]}
+{"qid": "624", "predictoin": "", "gold": "5", "choices": null}
+{"qid": "625", "predictoin": "BA", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "626", "predictoin": "(D)", "gold": "1", "choices": null}
+{"qid": "627", "predictoin": "(D)", "gold": "6", "choices": null}
+{"qid": "628", "predictoin": "(A)", "gold": "2", "choices": ["1", "2", "2.5", "3"]}
+{"qid": "629", "predictoin": "B", "gold": "20", "choices": null}
+{"qid": "630", "predictoin": "B:", "gold": "72", "choices": null}
+{"qid": "631", "predictoin": "C", "gold": "0", "choices": null}
+{"qid": "632", "predictoin": "\"D)", "gold": "52", "choices": null}
+{"qid": "633", "predictoin": "(D)", "gold": "57", "choices": ["47", "57", "67", "123"]}
+{"qid": "634", "predictoin": "(D)", "gold": "145\u00b0", "choices": ["35\u00b0", "110\u00b0", "135\u00b0", "145\u00b0"]}
+{"qid": "635", "predictoin": "(C)", "gold": "3", "choices": ["2", "3", "4", "5"]}
+{"qid": "636", "predictoin": "C", "gold": "34", "choices": null}
+{"qid": "637", "predictoin": "(C)", "gold": "120\u00b0", "choices": ["100\u00b0", "110\u00b0", "120\u00b0", "130\u00b0"]}
+{"qid": "638", "predictoin": "", "gold": "1", "choices": null}
+{"qid": "639", "predictoin": "(C)", "gold": "475", "choices": null}
+{"qid": "640", "predictoin": "(B)", "gold": "frac  5   3  pi", "choices": ["\\frac { 3 } { 5 } \\pi", "\\frac { 5 } { 3 } \\pi", "5 \\pi", "10 \\pi"]}
+{"qid": "641", "predictoin": "(B)", "gold": "5.77", "choices": null}
+{"qid": "642", "predictoin": "drops (C)", "gold": "12", "choices": ["4", "6", "8", "10", "12"]}
+{"qid": "643", "predictoin": "(B)", "gold": "25\u00b0", "choices": ["25\u00b0", "30\u00b0", "40\u00b0", "50\u00b0"]}
+{"qid": "644", "predictoin": "B", "gold": "6", "choices": ["6", "8", "10", "11"]}
+{"qid": "645", "predictoin": "(A)", "gold": "2.4", "choices": ["2.4", "2.5", "4.8", "5"]}
+{"qid": "646", "predictoin": "(C)", "gold": "25", "choices": null}
+{"qid": "647", "predictoin": "(B)", "gold": "B", "choices": ["A", "B", "C", "D", "E"]}
+{"qid": "648", "predictoin": "(C)", "gold": "-1", "choices": null}
+{"qid": "649", "predictoin": "(B)", "gold": "4", "choices": null}
+{"qid": "650", "predictoin": "(A)", "gold": "31.3", "choices": null}
+{"qid": "651", "predictoin": "(D)", "gold": "7", "choices": null}
+{"qid": "652", "predictoin": "(B)", "gold": "0", "choices": null}
+{"qid": "653", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "654", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "655", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "656", "predictoin": "(A)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "657", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "658", "predictoin": "scorB", "gold": "1", "choices": null}
+{"qid": "659", "predictoin": "highest", "gold": "991", "choices": null}
+{"qid": "660", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "661", "predictoin": "Can (C)", "gold": "a trigonometric function", "choices": ["a polynomial", "a trigonometric function", "an exponential function", "a logarithmic function"]}
+{"qid": "662", "predictoin": "(C)", "gold": "80", "choices": null}
+{"qid": "663", "predictoin": "AB", "gold": "quarter", "choices": ["half", "quarter", "o'clock", "quarter to", "quarter past"]}
+{"qid": "664", "predictoin": "(B)", "gold": "17", "choices": null}
+{"qid": "665", "predictoin": "(B)", "gold": "8", "choices": ["4.62", "5.66", "6.93", "8"]}
+{"qid": "666", "predictoin": "60", "gold": "4", "choices": null}
+{"qid": "667", "predictoin": "", "gold": "2015", "choices": null}
+{"qid": "668", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "669", "predictoin": "(D)", "gold": "3.5", "choices": ["2", "2.5", "3", "3.5"]}
+{"qid": "670", "predictoin": "E", "gold": "04/02/2005", "choices": ["04/06/2005", "04/02/2005", "04/05/2005", "04/03/2005", "04/04/2005"]}
+{"qid": "671", "predictoin": "1. (A)", "gold": "14.14", "choices": null}
+{"qid": "672", "predictoin": "(C)", "gold": "2", "choices": null}
+{"qid": "673", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "674", "predictoin": "(C)", "gold": "5", "choices": ["4", "5", "6", "7", "8"]}
+{"qid": "675", "predictoin": "(B)", "gold": "34m", "choices": ["13m", "34m", "(6+14\u221a{3})m", "40m"]}
+{"qid": "676", "predictoin": "(B)", "gold": "0", "choices": null}
+{"qid": "677", "predictoin": "CB:DA", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "678", "predictoin": "ABDA:CB", "gold": "58", "choices": ["21", "34", "58", "67"]}
+{"qid": "679", "predictoin": "(C)", "gold": "17", "choices": ["15", "17", "21", "27"]}
+{"qid": "680", "predictoin": "D", "gold": "5", "choices": null}
+{"qid": "681", "predictoin": "", "gold": "tokyo", "choices": ["hong kong", "osaka", "shanghai", "tokyo"]}
+{"qid": "682", "predictoin": "(B)", "gold": "decrease", "choices": ["decrease", "remains the same", "increase", "NA"]}
+{"qid": "683", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "684", "predictoin": "(C)", "gold": "55", "choices": ["27", "54", "55", "83"]}
+{"qid": "685", "predictoin": "B", "gold": "increase", "choices": ["decrease", "increase", "can't predict", "stay same"]}
+{"qid": "686", "predictoin": "ABC", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "687", "predictoin": "(B)", "gold": "increase in phytoplankton", "choices": ["increase in phytoplankton", "decrease in penguins", "increase in fish", "increase in birds"]}
+{"qid": "688", "predictoin": "(E)", "gold": "0-5", "choices": ["11-15", "21-25", "6-10", "16-20", "0-5"]}
+{"qid": "689", "predictoin": "(A)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "690", "predictoin": "(B)", "gold": "d + e = f + j", "choices": ["a + b = j + l", "g = h", "c + f = f + b", "g + e + f + h = 360", "d + e = f + j"]}
+{"qid": "691", "predictoin": "D", "gold": "256", "choices": null}
+{"qid": "692", "predictoin": "(C)", "gold": "Grasshoppers will decrease.", "choices": ["Grasshoppers will decrease.", "shrews will become extinct", "owls will increase.", "None of the above"]}
+{"qid": "693", "predictoin": "(A)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "694", "predictoin": "Orange", "gold": "110\u00b0", "choices": ["125\u00b0", "120\u00b0", "115\u00b0", "110\u00b0"]}
+{"qid": "695", "predictoin": "(D)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "696", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "697", "predictoin": "(B)", "gold": "27", "choices": ["12", "18", "27", "54"]}
+{"qid": "698", "predictoin": "C", "gold": "2*sqrt3", "choices": ["2*\\sqrt{3}", "6*\\sqrt{2}", "6*\\sqrt{3}", "6", "12"]}
+{"qid": "699", "predictoin": "(B)", "gold": "0", "choices": null}
+{"qid": "700", "predictoin": "(D)", "gold": "22", "choices": ["1", "2", "2\u221a{2}", "\u221a{6}"]}
+{"qid": "701", "predictoin": "(C)", "gold": "9", "choices": null}
+{"qid": "702", "predictoin": "(C)", "gold": "400", "choices": null}
+{"qid": "703", "predictoin": "(A)", "gold": "2372.1", "choices": null}
+{"qid": "704", "predictoin": "(B)", "gold": "1 & 3", "choices": ["1 & 2", "1 & 3", "1 & 4", "2 & 3", "2 & 4"]}
+{"qid": "705", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "706", "predictoin": "(B)", "gold": "C", "choices": ["A", "B", "C", "D", "E"]}
+{"qid": "707", "predictoin": "A", "gold": "120\u00b0", "choices": ["60\u00b0", "80\u00b0", "100\u00b0", "120\u00b0"]}
+{"qid": "708", "predictoin": "(A)", "gold": "frac95", "choices": ["\\frac{6}{5}", "\\frac{7}{6}", "\\frac{9}{5}", "\\frac{15}{2}"]}
+{"qid": "709", "predictoin": "(B)", "gold": "4", "choices": null}
+{"qid": "710", "predictoin": "(A)", "gold": "0", "choices": null}
+{"qid": "711", "predictoin": "three", "gold": "3", "choices": null}
+{"qid": "712", "predictoin": "(D)", "gold": "9", "choices": null}
+{"qid": "713", "predictoin": "(A)", "gold": "3", "choices": ["3", "4", "6", "7"]}
+{"qid": "714", "predictoin": "BA", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "715", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "716", "predictoin": "(B)", "gold": "16 sqrt  5 ", "choices": ["16 \\sqrt { 2 }", "16 \\sqrt { 3 }", "32", "16 \\sqrt { 5 }"]}
+{"qid": "717", "predictoin": "(D)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "718", "predictoin": "(B)", "gold": "0.21", "choices": null}
+{"qid": "719", "predictoin": "EnglishB: (C)", "gold": "13", "choices": null}
+{"qid": "720", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "721", "predictoin": "", "gold": "4", "choices": null}
+{"qid": "722", "predictoin": "(A)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "723", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "724", "predictoin": "C", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "725", "predictoin": "(C)", "gold": "-130", "choices": null}
+{"qid": "726", "predictoin": "(B)", "gold": "10", "choices": ["10", "30", "90", "120"]}
+{"qid": "727", "predictoin": "B: (B)", "gold": "70", "choices": null}
+{"qid": "728", "predictoin": "(B)", "gold": "7", "choices": null}
+{"qid": "729", "predictoin": "B", "gold": "1", "choices": null}
+{"qid": "730", "predictoin": "blue", "gold": "2019", "choices": null}
+{"qid": "731", "predictoin": "(B)", "gold": "40", "choices": null}
+{"qid": "732", "predictoin": "B", "gold": "Grasshopper", "choices": ["Grasshopper", "Snake", "Mouse", "Hawk"]}
+{"qid": "733", "predictoin": "(D)", "gold": "63.4", "choices": null}
+{"qid": "734", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "735", "predictoin": "ABC", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "736", "predictoin": "(D)", "gold": "32\u00b0", "choices": ["28\u00b0", "30\u00b0", "32\u00b0", "58\u00b0"]}
+{"qid": "737", "predictoin": "(A)", "gold": "78", "choices": ["32", "39", "46", "78"]}
+{"qid": "738", "predictoin": "BC", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "739", "predictoin": "(B)", "gold": "23", "choices": null}
+{"qid": "740", "predictoin": "(C)", "gold": "15", "choices": ["15", "100", "50", "50"]}
+{"qid": "741", "predictoin": "(D)", "gold": "13", "choices": null}
+{"qid": "742", "predictoin": "(B)", "gold": "3", "choices": null}
+{"qid": "743", "predictoin": "lowest", "gold": "10.53", "choices": null}
+{"qid": "744", "predictoin": "(B)", "gold": "7.5", "choices": ["5.4", "6", "6.6", "7.5"]}
+{"qid": "745", "predictoin": "B", "gold": "1", "choices": null}
+{"qid": "746", "predictoin": "(B)", "gold": "7", "choices": null}
+{"qid": "747", "predictoin": "(A)", "gold": "130", "choices": ["65", "120", "130", "155"]}
+{"qid": "748", "predictoin": "(C)", "gold": "65\u00b0", "choices": ["65\u00b0", "60\u00b0", "55\u00b0", "50\u00b0"]}
+{"qid": "749", "predictoin": "(B)", "gold": "frac207cm", "choices": ["\\frac{15}{4}cm", "\\frac{20}{3}cm", "\\frac{15}{7}cm", "\\frac{20}{7}cm"]}
+{"qid": "750", "predictoin": "B", "gold": "18", "choices": null}
+{"qid": "751", "predictoin": "", "gold": "Seahorses would decrease", "choices": ["Seahorses would decrease", "Rotifers would decrease", "Mysids would decrease", "Algae would decrease"]}
+{"qid": "752", "predictoin": "(C)", "gold": "2", "choices": ["1", "\u221a{3}", "2", "3"]}
+{"qid": "753", "predictoin": "(B)", "gold": "4", "choices": null}
+{"qid": "754", "predictoin": "(A)", "gold": "Population will decrease", "choices": ["Population will decrease", "Population will remain the same", "Population will increase", "None of the above"]}
+{"qid": "755", "predictoin": "", "gold": "a polynomial", "choices": ["a polynomial", "a trigonometric function", "an exponential function", "a logarithmic function"]}
+{"qid": "756", "predictoin": "(D)", "gold": "decrease", "choices": ["double", "skyrocket", "decrease", "increase"]}
+{"qid": "757", "predictoin": "(C)", "gold": "7.2", "choices": ["7.2", "8", "12", "15"]}
+{"qid": "758", "predictoin": "ABA", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "759", "predictoin": "A motorcycle", "gold": "2", "choices": null}
+{"qid": "760", "predictoin": "BD", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "761", "predictoin": "(D)", "gold": "Increase", "choices": ["Nothing", "Decrease", "Slightly Decrease", "Increase"]}
+{"qid": "762", "predictoin": "(B)", "gold": "(0, 0)", "choices": ["(0, 0)", "(-1, 0)", "(2, 0)"]}
+{"qid": "763", "predictoin": "(C)", "gold": "8", "choices": null}
+{"qid": "764", "predictoin": ": (C)", "gold": "9", "choices": null}
+{"qid": "765", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "766", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "767", "predictoin": "(D)", "gold": "5", "choices": null}
+{"qid": "768", "predictoin": "", "gold": "July and August", "choices": ["December, January, and February", "July and August", "March and April"]}
+{"qid": "769", "predictoin": "", "gold": "Solution A", "choices": ["neither; their concentrations are the same", "Solution A", "Solution B"]}
+{"qid": "770", "predictoin": "B", "gold": "1", "choices": null}
+{"qid": "771", "predictoin": "(B)", "gold": "decrease", "choices": ["decrease", "remain the same", "increase", "None"]}
+{"qid": "772", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "773", "predictoin": "1.ABC", "gold": "40\u00b0", "choices": ["25\u00b0", "40\u00b0", "50\u00b0", "65\u00b0"]}
+{"qid": "774", "predictoin": "B", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "775", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "776", "predictoin": "(B)", "gold": "18.79", "choices": ["16.50", "18.79", "20.32", "25.50"]}
+{"qid": "777", "predictoin": "(C)", "gold": "40", "choices": ["10", "40", "70", "140"]}
+{"qid": "778", "predictoin": "(B)", "gold": "A", "choices": ["A", "B", "C", "D"]}
+{"qid": "779", "predictoin": "ABC", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "780", "predictoin": "(A)", "gold": "7", "choices": null}
+{"qid": "781", "predictoin": "(D)", "gold": "18", "choices": ["9", "12", "18", "18"]}
+{"qid": "782", "predictoin": "9", "gold": "4", "choices": null}
+{"qid": "783", "predictoin": "(C)", "gold": "303m", "choices": ["30m", "30\u221a{3}m", "(30\u221a{3}+30)m", "(30\u221a{3}-30)m"]}
+{"qid": "784", "predictoin": "(D)", "gold": "70", "choices": null}
+{"qid": "785", "predictoin": "(C)", "gold": "The number of aquatic crustaceans will decrease", "choices": ["The number of ducks will increase", "The number of minnows will increase", "There will be no effect on this ecosystem", "The number of aquatic crustaceans will decrease"]}
+{"qid": "786", "predictoin": "(C)", "gold": "100", "choices": ["6", "60", "100", "180"]}
+{"qid": "787", "predictoin": "(B)", "gold": "50", "choices": null}
+{"qid": "788", "predictoin": "juvenile: (B)", "gold": "7", "choices": null}
+{"qid": "789", "predictoin": "(D)", "gold": "10", "choices": null}
+{"qid": "790", "predictoin": "MountB: (B)", "gold": "12", "choices": ["10", "11", "12", "13"]}
+{"qid": "791", "predictoin": "(C)", "gold": "1.06", "choices": null}
+{"qid": "792", "predictoin": "(B)", "gold": "7", "choices": null}
+{"qid": "793", "predictoin": "El: (B)", "gold": "1578", "choices": null}
+{"qid": "794", "predictoin": "(B)", "gold": "2", "choices": null}
+{"qid": "795", "predictoin": "B:", "gold": "75", "choices": null}
+{"qid": "796", "predictoin": "", "gold": "3", "choices": null}
+{"qid": "797", "predictoin": "(B)", "gold": "2", "choices": ["1", "2", "3", "4", "5", "6"]}
+{"qid": "798", "predictoin": "(A)", "gold": "k + p + s", "choices": ["k + n + r", "k + p + s", "n + p + s", "n + p + t", "r + s + t"]}
+{"qid": "799", "predictoin": "$: (D)", "gold": "13", "choices": null}
+{"qid": "800", "predictoin": "(A)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "801", "predictoin": "gymnas: (B)", "gold": "10", "choices": null}
+{"qid": "802", "predictoin": "9: (B)", "gold": "69", "choices": null}
+{"qid": "803", "predictoin": "$1B:", "gold": "1", "choices": null}
+{"qid": "804", "predictoin": "(B)", "gold": "4.29", "choices": ["3.71", "4.29", "4.53", "6.75"]}
+{"qid": "805", "predictoin": "BC", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "806", "predictoin": "(C)", "gold": "50\u00b0", "choices": ["80\u00b0", "60\u00b0", "50\u00b0", "40\u00b0"]}
+{"qid": "807", "predictoin": "ATC", "gold": "Acuminate", "choices": ["Truncate", "Acuminate", "Rounded", "Sagittate"]}
+{"qid": "808", "predictoin": "(C)", "gold": "9", "choices": null}
+{"qid": "809", "predictoin": "(B)", "gold": "2:2", "choices": ["1:3", "4:0", "3:1", "0:4", "2:2"]}
+{"qid": "810", "predictoin": "(B)", "gold": "8", "choices": null}
+{"qid": "811", "predictoin": "blue", "gold": "34", "choices": null}
+{"qid": "812", "predictoin": "BC", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "813", "predictoin": "", "gold": "30", "choices": null}
+{"qid": "814", "predictoin": "(B)", "gold": "100000000", "choices": null}
+{"qid": "815", "predictoin": "(C)", "gold": "120", "choices": ["60", "120", "240", "360"]}
+{"qid": "816", "predictoin": "(D)", "gold": "3", "choices": ["3", "9", "12.25", "24"]}
+{"qid": "817", "predictoin": "\"B)", "gold": "25\u00b0", "choices": ["65\u00b0", "25\u00b0", "35\u00b0", "45\u00b0"]}
+{"qid": "818", "predictoin": "(B)", "gold": "0.32", "choices": null}
+{"qid": "819", "predictoin": "(C)", "gold": "7", "choices": ["6", "7", "8", "13"]}
+{"qid": "820", "predictoin": "(C)", "gold": "0.96", "choices": ["0.14", "0.48", "0.50", "0.96"]}
+{"qid": "821", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "822", "predictoin": "(C)", "gold": "44", "choices": ["22", "40", "44", "48"]}
+{"qid": "823", "predictoin": "(B)", "gold": "The population of tuna will increase", "choices": ["The population of tuna will increase", "Mouse will decrease in number", "The phytoplankton will decrease", "The grasshopper will die"]}
+{"qid": "824", "predictoin": "$B: (B)", "gold": "0.13", "choices": null}
+{"qid": "825", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "826", "predictoin": "(C)", "gold": "Superior lobes", "choices": ["Inferior lobes", "Cardiac notch", "Superior lobes", "Middle lobe"]}
+{"qid": "827", "predictoin": "(A)", "gold": "D", "choices": ["A", "B", "C", "D", "E", "F"]}
+{"qid": "828", "predictoin": "(D)", "gold": "2.7", "choices": null}
+{"qid": "829", "predictoin": "(A)", "gold": "Left", "choices": ["Top", "Bottom", "Left", "Right", "Not possible"]}
+{"qid": "830", "predictoin": ": (B)", "gold": "2", "choices": null}
+{"qid": "831", "predictoin": "D: (C)", "gold": "679", "choices": null}
+{"qid": "832", "predictoin": "(B)", "gold": "-2", "choices": null}
+{"qid": "833", "predictoin": "(C)", "gold": "-4.3", "choices": null}
+{"qid": "834", "predictoin": "B", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "835", "predictoin": "8.B", "gold": "0", "choices": null}
+{"qid": "836", "predictoin": "", "gold": "semionotus", "choices": ["chinlea", "arganodus", "semionotus", "xenacanthus"]}
+{"qid": "837", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "838", "predictoin": "(A)", "gold": "4", "choices": null}
+{"qid": "839", "predictoin": "", "gold": "5", "choices": null}
+{"qid": "840", "predictoin": "(B)", "gold": "salami", "choices": ["salami", "wine", "cheese", "bread"]}
+{"qid": "841", "predictoin": "(C)", "gold": "9", "choices": null}
+{"qid": "842", "predictoin": "(A)", "gold": "frac45", "choices": ["\\frac{4}{5}", "\\frac{6}{5}", "\\frac{\u221a{5}}{5}", "\\frac{2\u221a{5}}{5}"]}
+{"qid": "843", "predictoin": "A", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "844", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "845", "predictoin": "(D)", "gold": "3", "choices": null}
+{"qid": "846", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "847", "predictoin": "(C)", "gold": "red", "choices": ["red", "purple", "blue"]}
+{"qid": "848", "predictoin": "(B)", "gold": "3", "choices": null}
+{"qid": "849", "predictoin": "(C)", "gold": "(b)", "choices": ["(c)", "(d)", "(a)", "(b)", "(e)"]}
+{"qid": "850", "predictoin": "(A)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "851", "predictoin": "", "gold": "2", "choices": null}
+{"qid": "852", "predictoin": "(A)", "gold": "40", "choices": null}
+{"qid": "853", "predictoin": "(A)", "gold": "12", "choices": ["3", "6", "9", "12"]}
+{"qid": "854", "predictoin": "(B)", "gold": "Fish", "choices": ["Plant", "Phyto-plankton", "Fish", "Lizard"]}
+{"qid": "855", "predictoin": "(A)", "gold": "14", "choices": ["2.5", "14", "15", "16"]}
+{"qid": "856", "predictoin": "BC", "gold": "Simple", "choices": ["Both", "Compound", "Simple", "Neither"]}
+{"qid": "857", "predictoin": "(B)", "gold": "9", "choices": null}
+{"qid": "858", "predictoin": "shrimp", "gold": "Octopus", "choices": ["Shark", "Small Shrimp", "Octopus", "Mysid Shrimp"]}
+{"qid": "859", "predictoin": "A:", "gold": "27", "choices": null}
+{"qid": "860", "predictoin": "(D)", "gold": "86", "choices": null}
+{"qid": "861", "predictoin": "(B)", "gold": "no", "choices": ["yes", "no"]}
+{"qid": "862", "predictoin": "(A)", "gold": "10.44", "choices": null}
+{"qid": "863", "predictoin": "D", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "864", "predictoin": ": (B)", "gold": "16", "choices": null}
+{"qid": "865", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "866", "predictoin": "\"A)", "gold": "135", "choices": ["45", "60", "120", "135"]}
+{"qid": "867", "predictoin": "(B)", "gold": "22", "choices": null}
+{"qid": "868", "predictoin": "\"C)", "gold": "5", "choices": null}
+{"qid": "869", "predictoin": "C", "gold": "2", "choices": null}
+{"qid": "870", "predictoin": "BD", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "871", "predictoin": "(C)", "gold": "2", "choices": null}
+{"qid": "872", "predictoin": "(C)", "gold": "D", "choices": ["A", "B", "C", "D"]}
+{"qid": "873", "predictoin": "(C)", "gold": "3", "choices": null}
+{"qid": "874", "predictoin": " (B)", "gold": "2", "choices": null}
+{"qid": "875", "predictoin": "(C)", "gold": "2", "choices": null}
+{"qid": "876", "predictoin": "DC", "gold": "90", "choices": ["45", "60", "90", "180"]}
+{"qid": "877", "predictoin": "(B)", "gold": "7", "choices": null}
+{"qid": "878", "predictoin": "9.", "gold": "11", "choices": ["6", "2\u221a{2}", "11", "24"]}
+{"qid": "879", "predictoin": "C", "gold": "2", "choices": null}
+{"qid": "880", "predictoin": "color", "gold": "252.65", "choices": null}
+{"qid": "881", "predictoin": "(A)", "gold": "decrease", "choices": ["decrease", "remain the same", "increase", "NA"]}
+{"qid": "882", "predictoin": "(A)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "883", "predictoin": "(B)", "gold": "15", "choices": null}
+{"qid": "884", "predictoin": "(C)", "gold": "octopus", "choices": ["ferret", "cat", "cloud", "octopus"]}
+{"qid": "885", "predictoin": "lake", "gold": "18", "choices": null}
+{"qid": "886", "predictoin": "(B)", "gold": "6", "choices": null}
+{"qid": "887", "predictoin": "(B)", "gold": "140\u00b0", "choices": ["140\u00b0", "130\u00b0", "120\u00b0", "110\u00b0"]}
+{"qid": "888", "predictoin": "(C)", "gold": "3", "choices": null}
+{"qid": "889", "predictoin": "(C)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "890", "predictoin": "(C)", "gold": "Sun", "choices": ["Sun", "It varies", "They are equal in size", "Moon"]}
+{"qid": "891", "predictoin": "(A)", "gold": "4", "choices": null}
+{"qid": "892", "predictoin": "BA", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "893", "predictoin": "", "gold": "0", "choices": null}
+{"qid": "894", "predictoin": "(B)", "gold": "9", "choices": null}
+{"qid": "895", "predictoin": "(A)", "gold": "MuBERT", "choices": ["MusicLDM (mix-up)", "MusicLDM (original)", "MusicLDM (BLM)", "MusicLDM (BAM)", "MuBERT"]}
+{"qid": "896", "predictoin": "C", "gold": "Around 31%", "choices": ["Around 21%", "Around 27%", "Around 31%", "Around 37%"]}
+{"qid": "897", "predictoin": "(C)", "gold": "40", "choices": ["33", "40", "50", "57"]}
+{"qid": "898", "predictoin": "(C)", "gold": "55\u00b0", "choices": ["35\u00b0", "55\u00b0", "65\u00b0", "70\u00b0"]}
+{"qid": "899", "predictoin": "A", "gold": "2123", "choices": null}
+{"qid": "900", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "901", "predictoin": "(C)", "gold": "7", "choices": null}
+{"qid": "902", "predictoin": "(C)", "gold": "obtuse", "choices": ["obtuse", "decurrent", "cuneate", "acute"]}
+{"qid": "903", "predictoin": "(C)", "gold": "60\u00b0", "choices": ["30\u00b0", "45\u00b0", "60\u00b0", "70\u00b0"]}
+{"qid": "904", "predictoin": "(B)", "gold": "3", "choices": null}
+{"qid": "905", "predictoin": "BA", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "906", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "907", "predictoin": "sixth", "gold": "1970", "choices": null}
+{"qid": "908", "predictoin": "AACB", "gold": "lizard", "choices": ["plant", "human", "lizard", "snake"]}
+{"qid": "909", "predictoin": "AB: (B)", "gold": "frac13", "choices": ["\\frac{2}{3}", "\\frac{1}{4}", "\\frac{1}{3}", "\\frac{1}{2}"]}
+{"qid": "910", "predictoin": "C", "gold": "2", "choices": null}
+{"qid": "911", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "912", "predictoin": "", "gold": "4", "choices": null}
+{"qid": "913", "predictoin": "(D)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "914", "predictoin": "graphic", "gold": "9", "choices": null}
+{"qid": "915", "predictoin": "AC", "gold": "It would also decrease.", "choices": ["Unable to determine.", "Nothing would happen.", "It would also decrease.", "It would increase."]}
+{"qid": "916", "predictoin": "(A)", "gold": "2", "choices": ["2", "\u221a{3}", "\u221a{2}", "2-\\frac{\u221a{3}}{3}"]}
+{"qid": "917", "predictoin": "(C)", "gold": "1", "choices": null}
+{"qid": "918", "predictoin": "(A)", "gold": "1", "choices": null}
+{"qid": "919", "predictoin": "(B)", "gold": "7", "choices": null}
+{"qid": "920", "predictoin": "figures: (B)", "gold": "30", "choices": null}
+{"qid": "921", "predictoin": "", "gold": "21.6", "choices": ["5", "8.1", "10.3", "21.6"]}
+{"qid": "922", "predictoin": "10. (B)", "gold": "1", "choices": null}
+{"qid": "923", "predictoin": "(C)", "gold": "LLaVA-13B (LLaMA-2)", "choices": ["Transformers Agent (GPT-4)", "LLaMA-Adapter v2-7B", "LLaVA-7B", "Otter-9B ", "MM-ReAct-GPT-3.5", "LLaVA-13B (LLaMA-2)", "MM-ReAct-GPT-4"]}
+{"qid": "924", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "925", "predictoin": "(A)", "gold": "19.5", "choices": null}
+{"qid": "926", "predictoin": "(A)", "gold": "7.07", "choices": null}
+{"qid": "927", "predictoin": "(C)", "gold": "19", "choices": ["19", "16", "29", "18"]}
+{"qid": "928", "predictoin": "", "gold": "5", "choices": null}
+{"qid": "929", "predictoin": "$: (A)", "gold": "85", "choices": null}
+{"qid": "930", "predictoin": "(A)", "gold": "119\u00b0", "choices": ["119\u00b0", "122\u00b0", "148\u00b0", "150\u00b0"]}
+{"qid": "931", "predictoin": "D", "gold": "50\u00b0", "choices": ["35\u00b0", "50\u00b0", "40\u00b0", "60\u00b0"]}
+{"qid": "932", "predictoin": "(C)", "gold": "decrease", "choices": ["decrease", "increase", "can't be predicted", "stay the same"]}
+{"qid": "933", "predictoin": "algae", "gold": "9606", "choices": null}
+{"qid": "934", "predictoin": "$B", "gold": "10000", "choices": null}
+{"qid": "935", "predictoin": "(C)", "gold": "2", "choices": ["2", "3", "4", "5"]}
+{"qid": "936", "predictoin": "", "gold": "0", "choices": null}
+{"qid": "937", "predictoin": "(C)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "938", "predictoin": "(C)", "gold": "105", "choices": ["75", "85", "95", "105"]}
+{"qid": "939", "predictoin": "(D)", "gold": "octopus", "choices": ["squid", "lantern fish", "octopus", "sea horse"]}
+{"qid": "940", "predictoin": "A shark", "gold": "6", "choices": null}
+{"qid": "941", "predictoin": "(C)", "gold": "2", "choices": null}
+{"qid": "942", "predictoin": "(B)", "gold": "0", "choices": null}
+{"qid": "943", "predictoin": "(C)", "gold": "2", "choices": null}
+{"qid": "944", "predictoin": "\u20ac", "gold": "3", "choices": null}
+{"qid": "945", "predictoin": "", "gold": "6", "choices": null}
+{"qid": "946", "predictoin": "\"DB)", "gold": "16", "choices": null}
+{"qid": "947", "predictoin": "(C)", "gold": "115\u00b0", "choices": ["95\u00b0", "105\u00b0", "115\u00b0", "125\u00b0"]}
+{"qid": "948", "predictoin": "C", "gold": "11", "choices": null}
+{"qid": "949", "predictoin": "(B)", "gold": "56", "choices": null}
+{"qid": "950", "predictoin": "(C)", "gold": "positive", "choices": ["positive", "negative", "zero", "undefined"]}
+{"qid": "951", "predictoin": "A: (A)", "gold": "12.75", "choices": ["10.25", "12.75", "18.75", "25.5"]}
+{"qid": "952", "predictoin": "(C)", "gold": "Fish", "choices": ["Minnows", "Ducks", "Fish", "Raccoons"]}
+{"qid": "953", "predictoin": "", "gold": "50", "choices": null}
+{"qid": "954", "predictoin": "CB", "gold": "All of above", "choices": ["Cricket will increase", "Mouse will increase", "Rabbit will increase", "All of above"]}
+{"qid": "955", "predictoin": "(B)", "gold": "36\u00b0", "choices": ["30\u00b0", "32\u00b0", "36\u00b0", "40\u00b0"]}
+{"qid": "956", "predictoin": "(C)", "gold": "6", "choices": null}
+{"qid": "957", "predictoin": "(B)", "gold": "Yes", "choices": ["Yes", "No"]}
+{"qid": "958", "predictoin": "(A)", "gold": "R, D, N", "choices": ["A, R, N", "R, D, N", "I, A, M", "H, O, W"]}
+{"qid": "959", "predictoin": "B: (B)", "gold": "32", "choices": null}
+{"qid": "960", "predictoin": "1.", "gold": "4", "choices": null}
+{"qid": "961", "predictoin": "DB:", "gold": "7", "choices": null}
+{"qid": "962", "predictoin": "(C)", "gold": "smaller than", "choices": ["larger than", "equal to", "smaller than"]}
+{"qid": "963", "predictoin": "", "gold": "3", "choices": null}
+{"qid": "964", "predictoin": "(C)", "gold": "6", "choices": null}
+{"qid": "965", "predictoin": "", "gold": "30", "choices": null}
+{"qid": "966", "predictoin": "(B)", "gold": "3", "choices": null}
+{"qid": "967", "predictoin": "", "gold": "2", "choices": null}
+{"qid": "968", "predictoin": "(A)", "gold": "6", "choices": null}
+{"qid": "969", "predictoin": "(C)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "970", "predictoin": "(A)", "gold": "118\u00b0", "choices": ["62\u00b0", "108\u00b0", "118\u00b0", "128\u00b0"]}
+{"qid": "971", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "972", "predictoin": "BD", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "973", "predictoin": "(D)", "gold": "1", "choices": null}
+{"qid": "974", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "975", "predictoin": "1.ABCD", "gold": "6", "choices": null}
+{"qid": "976", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "977", "predictoin": "(B)", "gold": "25\u00b0", "choices": ["65\u00b0", "5\u00b0", "15\u00b0", "25\u00b0"]}
+{"qid": "978", "predictoin": "C (D)", "gold": "7", "choices": null}
+{"qid": "979", "predictoin": "9: (B)", "gold": "9079", "choices": null}
+{"qid": "980", "predictoin": "", "gold": "12", "choices": null}
+{"qid": "981", "predictoin": "(C)", "gold": "70.4", "choices": null}
+{"qid": "982", "predictoin": "", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "983", "predictoin": "3.", "gold": "8", "choices": null}
+{"qid": "984", "predictoin": "ABC", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "985", "predictoin": "purple", "gold": "5", "choices": null}
+{"qid": "986", "predictoin": "(C)", "gold": "15\u00b0", "choices": ["10\u00b0", "15\u00b0", "17.5\u00b0", "20\u00b0"]}
+{"qid": "987", "predictoin": "(B)", "gold": "4232", "choices": null}
+{"qid": "988", "predictoin": "scale: (C)", "gold": "1", "choices": null}
+{"qid": "989", "predictoin": "(B)", "gold": "9", "choices": null}
+{"qid": "990", "predictoin": "(B)", "gold": "49", "choices": ["45", "49", "90", "98"]}
+{"qid": "991", "predictoin": "(C)", "gold": "purple and grey", "choices": ["green and red", "blue and orange", "purple and grey"]}
+{"qid": "992", "predictoin": "\"A)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "993", "predictoin": "basket: (C)", "gold": "9", "choices": null}
+{"qid": "994", "predictoin": "(B)", "gold": "yes", "choices": ["yes", "no"]}
+{"qid": "995", "predictoin": "(A)", "gold": "18.27", "choices": null}
+{"qid": "996", "predictoin": "9: (B)", "gold": "2", "choices": null}
+{"qid": "997", "predictoin": "(B)", "gold": "No", "choices": ["Yes", "No"]}
+{"qid": "998", "predictoin": ": (A)", "gold": "28\u00b0", "choices": ["28\u00b0", "30\u00b0", "32\u00b0", "38\u00b0"]}
+{"qid": "999", "predictoin": "(B)", "gold": "4.5", "choices": null}
+{"qid": "1000", "predictoin": "(B)", "gold": "9", "choices": null}
