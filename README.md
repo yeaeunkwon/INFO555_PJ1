@@ -1,7 +1,24 @@
-# INFO555_PJ1
-This repository was built for the submission of the first project in INFO555 class (FALL2024).
-
 ## LLMs is Blind: LLMs can answer the Visual-Question-Answering without seeing the image.
+Vision for humans is another significant chan-
+nel for processing information. However, hu-
+man cognitive ability can visualize an image
+based solely on descriptive text, using prior ex-
+periences and accumulated knowledge. This
+project investigates the ability of a text-only
+LLM in a VQA task when provided the im-
+age descriptions, instead of the original im-
+age, with QA pairs, compared to that of a
+multi-modal LLM. The standard and Chain-
+of-Thought(CoT) prompts are given to Gpt-3.5-
+turbo, and the image descriptions are obtained
+from LLaVa. The results illustrate that CoT
+strategy can enhance and surpass the multi-
+modal LLM in a VQA task even though the
+images are not directly provided to the text-
+only LLM. The experiments were conducted
+on the M3CoT dataset, addressing multiple do-
+mains such as mathematics, science, and com-
+monsense.
 ### Paper
 I couldn't upload the paper in this repository because of the error that says "Unable to render code block". So, I uploaded the paper to my Drive, and this is the link to the [file](https://drive.google.com/file/d/195ztptTjsfzqGNOEEseaiaTU_CCnlfIF/view?usp=sharing) : https://drive.google.com/file/d/195ztptTjsfzqGNOEEseaiaTU_CCnlfIF/view?usp=sharing
 ### Problem
